@@ -1,0 +1,501 @@
+Job_ID,Job_Title,Company,Location,Industry,Salary_LPA,Experience_Years,Education,Employment_Type,Work_Mode,Skills_Required,Date_Posted
+JOB10001,Business Analyst,TechNova Solutions,Kolkata,FinTech,5.5,2-3,BCA/MCA,Full-time,Remote,"Communication, ETL, Excel, Google Sheets, Power Query, VLOOKUP/XLOOKUP",2026-01-09
+JOB10002,Data Analyst,NextGen Systems,Pune,FinTech,7.6,3-5,Any Graduate,Contract,On-site,"Business Analysis, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics, Tableau",2026-07-15
+JOB10003,Junior Data Analyst,InsightWorks,Delhi NCR,IT Services,8.0,2-3,BCA/MCA,Contract,On-site,"Business Analysis, Data Cleaning, Excel, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-06-30
+JOB10004,Reporting Analyst,CloudMatrix,Bengaluru,E-commerce,8.6,3-5,B.Com/MBA,Contract,Hybrid,"Business Analysis, Excel, Google Sheets, Power BI, Python, Statistics, Tableau",2026-05-17
+JOB10005,Reporting Analyst,MarketSphere,Delhi NCR,BPO,3.9,0-1,BCA/MCA,Internship,Hybrid,"Excel, Google Sheets, Power Query, Statistics, Tableau",2026-02-24
+JOB10006,Operations Analyst,RetailPulse,Remote,BPO,4.8,1-2,BCA/MCA,Full-time,Remote,"Data Cleaning, ETL, Google Sheets, Power Query, Tableau, VLOOKUP/XLOOKUP",2026-05-30
+JOB10007,Business Analyst,MarketSphere,Kolkata,SaaS,2.7,0-1,Statistics/Mathematics,Contract,Remote,"Communication, Data Cleaning, ETL, Excel, Google Sheets, Power Query",2026-04-08
+JOB10008,Data Analyst,DataBridge India,Bengaluru,FinTech,8.4,2-3,B.Tech/M.Tech,Internship,Remote,"DAX, Excel, Google Sheets, Power BI, Power Query, SQL, Tableau",2026-05-09
+JOB10009,Reporting Analyst,FinEdge Analytics,Hyderabad,Healthcare,7.7,2-3,Any Graduate,Full-time,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Google Sheets, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-08-01
+JOB10010,Business Analyst,RetailPulse,Bengaluru,Healthcare,10.0,3-5,Statistics/Mathematics,Internship,Remote,"Business Analysis, Communication, DAX, Data Cleaning, ETL, Google Sheets, Power BI, Tableau, VLOOKUP/XLOOKUP",2026-06-05
+JOB10011,Reporting Analyst,TechNova Solutions,Mumbai,Healthcare,10.2,3-5,Statistics/Mathematics,Full-time,On-site,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Python, VLOOKUP/XLOOKUP",2026-03-28
+JOB10012,Business Analyst,Quantify Labs,Kolkata,Healthcare,3.7,1-2,Statistics/Mathematics,Full-time,Remote,"Business Analysis, Excel, Python, Statistics, VLOOKUP/XLOOKUP",2026-03-13
+JOB10013,Data Associate,Quantify Labs,Pune,IT Services,9.2,3-5,Any Graduate,Full-time,Hybrid,"Business Analysis, Communication, ETL, Excel, Power Query, Statistics",2026-04-16
+JOB10014,Junior Data Analyst,BrightOps,Bengaluru,FinTech,5.5,1-2,Any Graduate,Internship,Remote,"Business Analysis, DAX, Excel, Google Sheets, Power BI, Power Query, Python, SQL, Tableau",2026-07-26
+JOB10015,Data Analyst,Quantify Labs,Bengaluru,Consulting,5.4,1-2,B.Com/MBA,Internship,Remote,"Communication, DAX, ETL, Excel, Google Sheets, Power Query, Python, SQL",2026-07-20
+JOB10016,Data Associate,TechNova Solutions,Hyderabad,SaaS,5.1,1-2,Statistics/Mathematics,Internship,On-site,"Data Cleaning, ETL, SQL, Statistics, VLOOKUP/XLOOKUP",2026-01-15
+JOB10017,Data Analyst,MarketSphere,Bengaluru,IT Services,5.2,1-2,Statistics/Mathematics,Full-time,Hybrid,"Communication, Data Cleaning, Excel, Power Query, SQL",2026-05-29
+JOB10018,Junior Data Analyst,Quantify Labs,Mumbai,FinTech,6.5,1-2,Any Graduate,Internship,On-site,"DAX, Excel, Google Sheets, Power BI, Power Query, SQL, Tableau",2026-01-03
+JOB10019,BI Analyst,TechNova Solutions,Hyderabad,Consulting,8.0,2-3,Any Graduate,Full-time,Hybrid,"DAX, Excel, Power BI, SQL, Statistics, Tableau",2026-05-16
+JOB10020,Business Analyst,RetailPulse,Bengaluru,Consulting,5.7,1-2,Any Graduate,Full-time,Hybrid,"Business Analysis, DAX, ETL, Power BI, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-24
+JOB10021,MIS Executive,NextGen Systems,Mumbai,E-commerce,6.7,1-2,B.Com/MBA,Full-time,On-site,"Communication, Data Cleaning, ETL, Excel, Power BI, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-08-02
+JOB10022,BI Analyst,DataBridge India,Delhi NCR,Healthcare,5.7,0-1,BCA/MCA,Full-time,Hybrid,"Business Analysis, Communication, Excel, Python, SQL, VLOOKUP/XLOOKUP",2026-07-11
+JOB10023,Data Analyst,Quantify Labs,Hyderabad,Healthcare,7.7,2-3,BCA/MCA,Contract,Hybrid,"Business Analysis, Communication, ETL, Excel, Power BI, Python, SQL, Tableau",2026-08-08
+JOB10024,BI Analyst,RetailPulse,Pune,BPO,4.3,1-2,Any Graduate,Full-time,Hybrid,"ETL, Excel, Power Query, SQL, Statistics, Tableau",2026-05-11
+JOB10025,MIS Executive,CloudMatrix,Mumbai,Consulting,3.8,0-1,Any Graduate,Internship,Hybrid,"Business Analysis, Data Cleaning, ETL, Excel, Power Query, Python, Statistics, VLOOKUP/XLOOKUP",2026-05-28
+JOB10026,Data Analyst,NextGen Systems,Pune,Retail,6.7,2-3,B.Tech/M.Tech,Internship,On-site,"Business Analysis, Communication, Data Cleaning, Excel, SQL, Statistics, Tableau",2026-04-15
+JOB10027,Reporting Analyst,FinEdge Analytics,Chennai,Healthcare,8.6,3-5,B.Com/MBA,Internship,Remote,"Business Analysis, Data Cleaning, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-03-19
+JOB10028,Junior Data Analyst,MarketSphere,Remote,BPO,8.1,3-5,Any Graduate,Full-time,Remote,"DAX, ETL, Excel, Power BI, SQL, VLOOKUP/XLOOKUP",2026-06-12
+JOB10029,Reporting Analyst,RetailPulse,Pune,SaaS,4.3,1-2,B.Com/MBA,Full-time,On-site,"Business Analysis, DAX, Data Cleaning, Excel, Power Query, Python",2026-07-03
+JOB10030,Data Analyst,BrightOps,Bengaluru,BPO,8.4,3-5,B.Com/MBA,Internship,Remote,"Business Analysis, Communication, DAX, Excel, Power BI, Power Query, Python, SQL, VLOOKUP/XLOOKUP",2026-06-20
+JOB10031,Operations Analyst,FinEdge Analytics,Remote,SaaS,6.1,1-2,Any Graduate,Internship,Remote,"Business Analysis, Communication, DAX, Google Sheets, Python, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-03-03
+JOB10032,Reporting Analyst,NextGen Systems,Mumbai,SaaS,6.9,2-3,B.Com/MBA,Full-time,On-site,"Communication, DAX, ETL, Excel, Google Sheets, Power BI, Power Query, Python, SQL",2026-04-15
+JOB10033,Operations Analyst,BrightOps,Chennai,Healthcare,5.1,0-1,B.Com/MBA,Full-time,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-08
+JOB10034,Operations Analyst,MarketSphere,Remote,IT Services,3.9,0-1,Any Graduate,Internship,Remote,"DAX, Data Cleaning, ETL, Google Sheets, Power BI, Python, SQL, VLOOKUP/XLOOKUP",2026-06-01
+JOB10035,MIS Executive,RetailPulse,Remote,Consulting,4.2,1-2,Any Graduate,Contract,Remote,"Business Analysis, Communication, DAX, Power Query, Python, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-08-01
+JOB10036,Data Analyst,CloudMatrix,Delhi NCR,E-commerce,6.3,1-2,B.Com/MBA,Internship,On-site,"ETL, Excel, Google Sheets, Python, SQL",2026-02-09
+JOB10037,Reporting Analyst,MarketSphere,Remote,IT Services,7.5,2-3,B.Tech/M.Tech,Internship,Remote,"Business Analysis, Data Cleaning, ETL, Excel, Power BI, Tableau",2026-01-28
+JOB10038,Operations Analyst,MarketSphere,Pune,IT Services,4.6,0-1,B.Tech/M.Tech,Internship,Hybrid,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Tableau",2026-07-23
+JOB10039,Junior Data Analyst,BrightOps,Bengaluru,SaaS,6.3,2-3,B.Com/MBA,Contract,Remote,"Business Analysis, DAX, Excel, Google Sheets, Power BI, Power Query, Python, SQL",2026-06-07
+JOB10040,BI Analyst,TechNova Solutions,Delhi NCR,SaaS,6.7,1-2,B.Tech/M.Tech,Full-time,Hybrid,"DAX, Excel, Python, SQL, Tableau",2026-03-28
+JOB10041,Reporting Analyst,Quantify Labs,Delhi NCR,Healthcare,6.7,2-3,B.Com/MBA,Internship,Remote,"Business Analysis, DAX, ETL, Excel, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-04-15
+JOB10042,Data Associate,BrightOps,Remote,BPO,3.2,0-1,B.Com/MBA,Internship,Remote,"Data Cleaning, ETL, Power Query, Python, Statistics, Tableau",2026-05-02
+JOB10043,Junior Data Analyst,CloudMatrix,Remote,Healthcare,6.2,2-3,B.Com/MBA,Contract,Remote,"Business Analysis, ETL, Excel, Python, SQL, Statistics",2026-02-17
+JOB10044,Business Analyst,TechNova Solutions,Pune,Consulting,6.1,2-3,BCA/MCA,Internship,Hybrid,"Business Analysis, ETL, Power BI, SQL, Tableau, VLOOKUP/XLOOKUP",2026-01-12
+JOB10045,Business Analyst,InsightWorks,Kolkata,IT Services,6.1,2-3,BCA/MCA,Full-time,Remote,"DAX, Excel, Power BI, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-05-06
+JOB10046,BI Analyst,MarketSphere,Bengaluru,IT Services,5.3,1-2,Statistics/Mathematics,Internship,On-site,"Business Analysis, Communication, Data Cleaning, Excel, Google Sheets, Power Query, Python, SQL",2026-03-20
+JOB10047,Reporting Analyst,Quantify Labs,Pune,SaaS,7.3,2-3,B.Tech/M.Tech,Full-time,On-site,"Excel, Google Sheets, Power BI, Python, SQL, VLOOKUP/XLOOKUP",2026-04-15
+JOB10048,BI Analyst,DataBridge India,Mumbai,Consulting,7.7,3-5,BCA/MCA,Full-time,On-site,"Communication, Data Cleaning, Excel, Google Sheets, Power Query, SQL",2026-02-27
+JOB10049,MIS Executive,MarketSphere,Mumbai,IT Services,7.2,2-3,B.Com/MBA,Internship,Hybrid,"Business Analysis, DAX, ETL, Google Sheets, Power Query, Python, Tableau, VLOOKUP/XLOOKUP",2026-01-21
+JOB10050,BI Analyst,DataBridge India,Kolkata,Retail,2.9,0-1,B.Com/MBA,Full-time,Hybrid,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Google Sheets, Power BI, SQL, Tableau",2026-03-13
+JOB10051,Junior Data Analyst,BrightOps,Chennai,IT Services,6.2,2-3,B.Com/MBA,Full-time,Hybrid,"Business Analysis, DAX, Excel, Power BI, SQL",2026-07-28
+JOB10052,BI Analyst,NextGen Systems,Delhi NCR,SaaS,5.9,0-1,B.Com/MBA,Full-time,On-site,"Business Analysis, DAX, ETL, Excel, Google Sheets, Power Query, SQL, VLOOKUP/XLOOKUP",2026-05-13
+JOB10053,BI Analyst,BrightOps,Hyderabad,Retail,6.8,2-3,Any Graduate,Full-time,On-site,"Communication, DAX, Data Cleaning, Excel, Power BI, Python, SQL, Tableau",2026-01-04
+JOB10054,Data Associate,BrightOps,Bengaluru,E-commerce,6.3,1-2,B.Com/MBA,Full-time,Remote,"DAX, Data Cleaning, ETL, Power Query, Python, Tableau, VLOOKUP/XLOOKUP",2026-04-27
+JOB10055,MIS Executive,MarketSphere,Bengaluru,SaaS,8.4,2-3,BCA/MCA,Contract,Remote,"Communication, ETL, Google Sheets, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-05-31
+JOB10056,Data Associate,NextGen Systems,Delhi NCR,SaaS,7.3,2-3,B.Com/MBA,Contract,Remote,"Business Analysis, Communication, DAX, Data Cleaning, Google Sheets, Power Query, Python, Statistics, VLOOKUP/XLOOKUP",2026-01-12
+JOB10057,MIS Executive,DataBridge India,Remote,FinTech,3.2,0-1,B.Com/MBA,Contract,Remote,"Business Analysis, Communication, DAX, ETL, Excel, Google Sheets, SQL, Statistics, VLOOKUP/XLOOKUP",2026-04-15
+JOB10058,Operations Analyst,FinEdge Analytics,Bengaluru,Healthcare,8.6,2-3,Any Graduate,Contract,On-site,"Communication, DAX, ETL, Excel, Google Sheets, Power Query, SQL, Statistics, VLOOKUP/XLOOKUP",2026-06-25
+JOB10059,Business Analyst,RetailPulse,Remote,E-commerce,6.0,1-2,BCA/MCA,Internship,Remote,"Business Analysis, Google Sheets, SQL, Statistics, Tableau",2026-04-06
+JOB10060,MIS Executive,FinEdge Analytics,Hyderabad,SaaS,4.5,1-2,B.Tech/M.Tech,Internship,On-site,"Business Analysis, Communication, DAX, Data Cleaning, ETL, Google Sheets, Power BI, Python",2026-06-13
+JOB10061,Data Associate,RetailPulse,Mumbai,SaaS,4.9,1-2,Any Graduate,Full-time,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Google Sheets, Power Query, Tableau",2026-02-20
+JOB10062,Junior Data Analyst,NextGen Systems,Mumbai,Healthcare,6.1,2-3,BCA/MCA,Internship,Hybrid,"Business Analysis, DAX, Data Cleaning, Excel, Google Sheets, Power Query, SQL, Tableau",2026-06-05
+JOB10063,MIS Executive,DataBridge India,Bengaluru,Healthcare,4.6,0-1,BCA/MCA,Internship,Hybrid,"DAX, Data Cleaning, ETL, Excel, Power BI, SQL, Statistics, Tableau",2026-04-17
+JOB10064,BI Analyst,RetailPulse,Hyderabad,BPO,8.1,2-3,Any Graduate,Contract,On-site,"DAX, Data Cleaning, ETL, Excel, Google Sheets, SQL, Tableau, VLOOKUP/XLOOKUP",2026-08-09
+JOB10065,BI Analyst,BrightOps,Bengaluru,BPO,8.8,3-5,Statistics/Mathematics,Full-time,Remote,"Communication, DAX, Excel, Power Query, Python, SQL, Statistics",2026-06-08
+JOB10066,Business Analyst,InsightWorks,Remote,Healthcare,7.2,2-3,Statistics/Mathematics,Full-time,Remote,"DAX, Google Sheets, Power BI, SQL, Tableau",2026-01-30
+JOB10067,Data Associate,TechNova Solutions,Delhi NCR,BPO,8.9,3-5,BCA/MCA,Contract,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Power Query",2026-03-13
+JOB10068,Reporting Analyst,Quantify Labs,Delhi NCR,FinTech,5.9,0-1,BCA/MCA,Internship,Remote,"Communication, Power Query, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-02-01
+JOB10069,Data Analyst,CloudMatrix,Kolkata,BPO,5.5,2-3,BCA/MCA,Internship,On-site,"Data Cleaning, ETL, Excel, Google Sheets, Python, SQL",2026-02-25
+JOB10070,BI Analyst,CloudMatrix,Hyderabad,BPO,5.8,1-2,Any Graduate,Full-time,Hybrid,"Communication, ETL, Excel, Power BI, SQL, Statistics",2026-07-22
+JOB10071,Data Analyst,CloudMatrix,Hyderabad,IT Services,8.5,3-5,Statistics/Mathematics,Contract,Hybrid,"Business Analysis, Data Cleaning, Excel, SQL, Statistics",2026-05-09
+JOB10072,Data Analyst,DataBridge India,Kolkata,Consulting,8.6,3-5,Statistics/Mathematics,Internship,Remote,"Communication, Data Cleaning, ETL, Excel, Google Sheets, SQL, Statistics, Tableau",2026-01-17
+JOB10073,Junior Data Analyst,Quantify Labs,Chennai,Retail,6.5,2-3,B.Com/MBA,Internship,On-site,"Communication, Data Cleaning, ETL, Excel, Google Sheets, Power Query, Python, SQL, VLOOKUP/XLOOKUP",2026-03-28
+JOB10074,Junior Data Analyst,NextGen Systems,Chennai,E-commerce,7.1,2-3,Statistics/Mathematics,Full-time,Remote,"Communication, DAX, Data Cleaning, Excel, Google Sheets, SQL, VLOOKUP/XLOOKUP",2026-07-10
+JOB10075,Junior Data Analyst,Quantify Labs,Bengaluru,Healthcare,8.8,3-5,Any Graduate,Contract,Remote,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Google Sheets, SQL, Statistics",2026-02-09
+JOB10076,Junior Data Analyst,FinEdge Analytics,Bengaluru,BPO,7.9,2-3,B.Tech/M.Tech,Full-time,On-site,"Business Analysis, Communication, ETL, Excel, Google Sheets, SQL, Tableau, VLOOKUP/XLOOKUP",2026-03-11
+JOB10077,MIS Executive,Quantify Labs,Chennai,BPO,3.2,0-1,BCA/MCA,Contract,Hybrid,"ETL, Excel, Power Query, Python, VLOOKUP/XLOOKUP",2026-04-18
+JOB10078,Junior Data Analyst,FinEdge Analytics,Bengaluru,Healthcare,4.2,0-1,Statistics/Mathematics,Full-time,Hybrid,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power Query, Python, SQL, Tableau",2026-04-17
+JOB10079,Operations Analyst,CloudMatrix,Bengaluru,Consulting,8.1,2-3,BCA/MCA,Full-time,Hybrid,"Communication, DAX, Data Cleaning, ETL, Power Query, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-01-02
+JOB10080,BI Analyst,TechNova Solutions,Delhi NCR,Retail,3.3,0-1,Any Graduate,Contract,On-site,"Business Analysis, Communication, Excel, Power BI, Power Query, Python, SQL, VLOOKUP/XLOOKUP",2026-08-09
+JOB10081,Junior Data Analyst,NextGen Systems,Chennai,FinTech,8.7,3-5,B.Com/MBA,Full-time,On-site,"DAX, ETL, Excel, Power BI, Power Query, SQL, Statistics, Tableau",2026-06-26
+JOB10082,Operations Analyst,BrightOps,Chennai,Healthcare,3.9,0-1,B.Tech/M.Tech,Contract,Remote,"ETL, Excel, Google Sheets, Power BI, Python, Statistics, VLOOKUP/XLOOKUP",2026-05-16
+JOB10083,MIS Executive,Quantify Labs,Pune,SaaS,3.4,0-1,Statistics/Mathematics,Internship,Hybrid,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Power BI",2026-07-17
+JOB10084,Junior Data Analyst,Quantify Labs,Delhi NCR,SaaS,5.7,1-2,Any Graduate,Full-time,Hybrid,"DAX, Data Cleaning, ETL, Excel, Google Sheets, SQL, Statistics, Tableau",2026-03-21
+JOB10085,BI Analyst,DataBridge India,Bengaluru,IT Services,5.5,0-1,B.Com/MBA,Full-time,Hybrid,"DAX, Data Cleaning, Excel, Google Sheets, Power Query, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-05-09
+JOB10086,Business Analyst,RetailPulse,Hyderabad,BPO,3.8,0-1,Statistics/Mathematics,Full-time,Remote,"Communication, DAX, Data Cleaning, ETL, Google Sheets, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-04-10
+JOB10087,Junior Data Analyst,FinEdge Analytics,Bengaluru,Retail,6.6,2-3,BCA/MCA,Internship,Remote,"Business Analysis, Communication, Data Cleaning, Excel, Power BI, SQL, Statistics, Tableau",2026-03-31
+JOB10088,Business Analyst,NextGen Systems,Mumbai,IT Services,9.2,3-5,B.Tech/M.Tech,Contract,On-site,"Business Analysis, Communication, ETL, Excel, Power BI, Power Query, VLOOKUP/XLOOKUP",2026-05-11
+JOB10089,Reporting Analyst,BrightOps,Delhi NCR,IT Services,7.8,3-5,B.Tech/M.Tech,Internship,On-site,"Data Cleaning, Excel, Google Sheets, Power BI, Tableau, VLOOKUP/XLOOKUP",2026-08-02
+JOB10090,Operations Analyst,Quantify Labs,Hyderabad,Consulting,4.8,1-2,B.Com/MBA,Full-time,Remote,"Communication, DAX, ETL, Google Sheets, Power BI, Power Query, SQL, Statistics, VLOOKUP/XLOOKUP",2026-03-02
+JOB10091,Reporting Analyst,RetailPulse,Mumbai,Retail,9.9,3-5,BCA/MCA,Full-time,Remote,"Communication, DAX, Data Cleaning, Google Sheets, Statistics, Tableau",2026-07-19
+JOB10092,MIS Executive,DataBridge India,Mumbai,Consulting,5.2,0-1,B.Com/MBA,Internship,On-site,"Business Analysis, Data Cleaning, ETL, Excel, Google Sheets, Tableau, VLOOKUP/XLOOKUP",2026-07-15
+JOB10093,Operations Analyst,InsightWorks,Bengaluru,BPO,7.2,1-2,BCA/MCA,Full-time,Hybrid,"Business Analysis, Google Sheets, Power Query, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-04-09
+JOB10094,Business Analyst,TechNova Solutions,Delhi NCR,Consulting,4.9,1-2,BCA/MCA,Full-time,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Google Sheets, Power BI, SQL",2026-01-21
+JOB10095,Operations Analyst,InsightWorks,Bengaluru,FinTech,6.9,2-3,B.Com/MBA,Internship,Remote,"Communication, Data Cleaning, Power Query, Python, SQL",2026-04-28
+JOB10096,Data Analyst,NextGen Systems,Pune,FinTech,5.0,1-2,Statistics/Mathematics,Internship,Remote,"Business Analysis, Excel, Power Query, Python, SQL",2026-05-15
+JOB10097,Data Analyst,InsightWorks,Chennai,BPO,6.9,3-5,BCA/MCA,Full-time,Hybrid,"Business Analysis, Data Cleaning, ETL, Excel, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-07
+JOB10098,Junior Data Analyst,CloudMatrix,Hyderabad,IT Services,9.7,3-5,B.Tech/M.Tech,Contract,Remote,"Business Analysis, Communication, DAX, Excel, Google Sheets, Power BI, SQL, Tableau",2026-01-12
+JOB10099,Operations Analyst,NextGen Systems,Remote,Retail,5.5,2-3,B.Com/MBA,Internship,Remote,"Business Analysis, Communication, Google Sheets, SQL, Statistics, Tableau",2026-02-01
+JOB10100,Operations Analyst,DataBridge India,Delhi NCR,Consulting,5.8,1-2,B.Tech/M.Tech,Full-time,On-site,"Data Cleaning, Excel, Google Sheets, Power Query, Python, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-06-04
+JOB10101,Junior Data Analyst,TechNova Solutions,Mumbai,FinTech,7.2,2-3,B.Com/MBA,Contract,Remote,"DAX, ETL, Excel, Google Sheets, Power BI, SQL, Statistics, Tableau",2026-03-12
+JOB10102,MIS Executive,MarketSphere,Kolkata,E-commerce,5.8,1-2,B.Com/MBA,Contract,Hybrid,"Data Cleaning, Excel, Power BI, Power Query, Python, SQL, Statistics, Tableau",2026-01-09
+JOB10103,Data Associate,RetailPulse,Bengaluru,FinTech,6.4,1-2,B.Tech/M.Tech,Contract,Remote,"Communication, Excel, Google Sheets, Power BI, Python, SQL, Statistics, Tableau",2026-05-13
+JOB10104,Data Associate,NextGen Systems,Pune,BPO,7.4,2-3,Any Graduate,Internship,Remote,"DAX, Data Cleaning, ETL, Excel, Google Sheets, Power BI, Python, SQL",2026-07-27
+JOB10105,BI Analyst,Quantify Labs,Mumbai,IT Services,6.6,1-2,B.Tech/M.Tech,Internship,Remote,"Communication, Excel, Google Sheets, Python, SQL, VLOOKUP/XLOOKUP",2026-03-02
+JOB10106,Junior Data Analyst,RetailPulse,Remote,FinTech,5.8,1-2,BCA/MCA,Contract,Remote,"Excel, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-07-16
+JOB10107,Data Associate,DataBridge India,Remote,Consulting,5.7,2-3,BCA/MCA,Full-time,Remote,"Communication, DAX, Data Cleaning, ETL, Google Sheets, Power BI, Power Query, SQL, VLOOKUP/XLOOKUP",2026-05-13
+JOB10108,Reporting Analyst,DataBridge India,Delhi NCR,E-commerce,8.1,2-3,BCA/MCA,Internship,Remote,"Communication, Excel, Google Sheets, Power BI, Python, Tableau, VLOOKUP/XLOOKUP",2026-05-09
+JOB10109,Junior Data Analyst,FinEdge Analytics,Kolkata,SaaS,2.5,0-1,BCA/MCA,Internship,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Python, SQL, Statistics, Tableau",2026-06-14
+JOB10110,BI Analyst,NextGen Systems,Remote,BPO,4.8,0-1,B.Com/MBA,Full-time,Remote,"Business Analysis, DAX, ETL, Excel, SQL, Statistics",2026-03-22
+JOB10111,Business Analyst,RetailPulse,Delhi NCR,Healthcare,5.8,1-2,BCA/MCA,Contract,Remote,"DAX, Excel, Power BI, Power Query, Python, SQL, Tableau",2026-06-07
+JOB10112,Junior Data Analyst,CloudMatrix,Pune,BPO,5.5,1-2,Any Graduate,Full-time,Hybrid,"Business Analysis, DAX, ETL, Excel, Google Sheets, Power Query, Python, SQL, Tableau",2026-03-03
+JOB10113,Data Associate,TechNova Solutions,Remote,Retail,6.8,2-3,Any Graduate,Internship,Remote,"Business Analysis, Power BI, Power Query, Statistics, Tableau",2026-04-04
+JOB10114,Junior Data Analyst,NextGen Systems,Mumbai,BPO,4.5,0-1,Statistics/Mathematics,Contract,On-site,"Communication, Data Cleaning, Excel, Google Sheets, Power BI, SQL, Tableau, VLOOKUP/XLOOKUP",2026-04-11
+JOB10115,Reporting Analyst,BrightOps,Chennai,E-commerce,2.9,0-1,B.Tech/M.Tech,Internship,Hybrid,"Business Analysis, DAX, ETL, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-06-05
+JOB10116,MIS Executive,NextGen Systems,Chennai,FinTech,6.9,2-3,B.Com/MBA,Internship,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Google Sheets, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-04-05
+JOB10117,Data Analyst,CloudMatrix,Remote,IT Services,8.0,2-3,Statistics/Mathematics,Internship,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Python, SQL, Statistics, Tableau",2026-02-07
+JOB10118,Reporting Analyst,TechNova Solutions,Kolkata,E-commerce,7.1,3-5,Statistics/Mathematics,Full-time,Remote,"Business Analysis, DAX, ETL, Power Query, Python, VLOOKUP/XLOOKUP",2026-08-06
+JOB10119,Junior Data Analyst,CloudMatrix,Remote,Consulting,7.7,3-5,Statistics/Mathematics,Contract,Remote,"DAX, Excel, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-02-19
+JOB10120,BI Analyst,NextGen Systems,Mumbai,E-commerce,6.6,1-2,B.Tech/M.Tech,Full-time,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-29
+JOB10121,Business Analyst,MarketSphere,Delhi NCR,Healthcare,9.1,3-5,BCA/MCA,Full-time,Remote,"Business Analysis, Communication, ETL, Power BI, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-06-07
+JOB10122,Reporting Analyst,Quantify Labs,Pune,SaaS,3.3,0-1,BCA/MCA,Contract,Hybrid,"Communication, DAX, Data Cleaning, ETL, Excel, Power BI, SQL",2026-04-15
+JOB10123,BI Analyst,RetailPulse,Kolkata,SaaS,4.1,0-1,BCA/MCA,Internship,Hybrid,"Excel, Google Sheets, Power BI, Power Query, SQL, VLOOKUP/XLOOKUP",2026-01-10
+JOB10124,Data Analyst,BrightOps,Kolkata,SaaS,6.3,2-3,B.Tech/M.Tech,Full-time,On-site,"DAX, Excel, SQL, Statistics, Tableau",2026-02-04
+JOB10125,Junior Data Analyst,RetailPulse,Hyderabad,Retail,8.9,3-5,Statistics/Mathematics,Contract,On-site,"Data Cleaning, Excel, Python, SQL, Statistics, Tableau",2026-06-06
+JOB10126,Operations Analyst,NextGen Systems,Bengaluru,Consulting,7.7,1-2,Statistics/Mathematics,Internship,Remote,"DAX, Data Cleaning, Google Sheets, Power Query, Python, SQL, Statistics, Tableau",2026-03-10
+JOB10127,Data Analyst,BrightOps,Mumbai,Consulting,7.9,2-3,Any Graduate,Internship,Hybrid,"Communication, DAX, Excel, Power BI, SQL",2026-06-25
+JOB10128,Junior Data Analyst,MarketSphere,Pune,FinTech,6.8,1-2,Statistics/Mathematics,Contract,Remote,"DAX, ETL, Excel, Google Sheets, Power BI, Power Query, Statistics, VLOOKUP/XLOOKUP",2026-06-24
+JOB10129,Junior Data Analyst,CloudMatrix,Bengaluru,SaaS,4.0,0-1,Any Graduate,Internship,Hybrid,"Business Analysis, Data Cleaning, ETL, Excel, Power BI, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-06-24
+JOB10130,Data Analyst,CloudMatrix,Remote,FinTech,5.5,1-2,Any Graduate,Contract,Remote,"DAX, Excel, Google Sheets, Power BI, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-07-10
+JOB10131,Business Analyst,RetailPulse,Kolkata,Retail,5.0,0-1,Any Graduate,Internship,Remote,"Communication, ETL, Power BI, Power Query, Python, SQL, Statistics, Tableau",2026-04-25
+JOB10132,MIS Executive,BrightOps,Delhi NCR,Retail,3.8,0-1,Statistics/Mathematics,Contract,On-site,"Communication, Data Cleaning, Power BI, Power Query, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-04
+JOB10133,Reporting Analyst,CloudMatrix,Remote,FinTech,5.8,2-3,Any Graduate,Internship,Remote,"Communication, ETL, Excel, Google Sheets, Power Query, SQL",2026-03-03
+JOB10134,Data Associate,MarketSphere,Kolkata,BPO,5.5,1-2,Statistics/Mathematics,Internship,Remote,"DAX, Excel, Google Sheets, Power BI, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-07-28
+JOB10135,Junior Data Analyst,Quantify Labs,Pune,IT Services,7.9,2-3,B.Tech/M.Tech,Internship,Remote,"ETL, Excel, Google Sheets, Power Query, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-05-23
+JOB10136,Operations Analyst,DataBridge India,Delhi NCR,SaaS,8.4,3-5,Any Graduate,Internship,Hybrid,"DAX, Data Cleaning, Power BI, Power Query, Python, Tableau, VLOOKUP/XLOOKUP",2026-08-08
+JOB10137,Operations Analyst,CloudMatrix,Hyderabad,IT Services,7.8,3-5,B.Tech/M.Tech,Contract,Remote,"Business Analysis, Communication, DAX, ETL, Excel, Statistics",2026-05-18
+JOB10138,Data Analyst,InsightWorks,Bengaluru,SaaS,7.2,1-2,BCA/MCA,Internship,Remote,"Communication, DAX, ETL, Excel, Google Sheets, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-02-18
+JOB10139,Reporting Analyst,BrightOps,Chennai,SaaS,5.5,1-2,B.Com/MBA,Full-time,Remote,"Communication, DAX, ETL, Power Query, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-04-03
+JOB10140,Data Associate,CloudMatrix,Delhi NCR,BPO,5.5,1-2,BCA/MCA,Contract,Remote,"Business Analysis, Communication, Data Cleaning, Power BI, Power Query, Python, SQL, Tableau",2026-02-09
+JOB10141,Reporting Analyst,BrightOps,Remote,SaaS,6.1,2-3,BCA/MCA,Internship,Remote,"Business Analysis, Communication, DAX, ETL, Excel, Google Sheets, Power BI, Statistics",2026-02-05
+JOB10142,Data Analyst,NextGen Systems,Bengaluru,IT Services,5.9,0-1,Statistics/Mathematics,Internship,Remote,"Business Analysis, Communication, ETL, Excel, Power BI, Python, SQL, Tableau",2026-04-27
+JOB10143,Data Associate,RetailPulse,Remote,E-commerce,2.9,0-1,Any Graduate,Full-time,Remote,"Communication, DAX, Data Cleaning, ETL, Google Sheets, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-07-28
+JOB10144,Reporting Analyst,CloudMatrix,Pune,Consulting,7.7,2-3,Any Graduate,Internship,Remote,"Business Analysis, DAX, Excel, Google Sheets, Power Query, Python, Statistics",2026-06-28
+JOB10145,Data Analyst,NextGen Systems,Bengaluru,FinTech,8.8,3-5,Statistics/Mathematics,Full-time,On-site,"Business Analysis, Communication, DAX, Excel, Google Sheets, Power BI, Power Query, Python, SQL",2026-06-15
+JOB10146,Reporting Analyst,NextGen Systems,Remote,IT Services,5.5,2-3,BCA/MCA,Internship,Remote,"Communication, Data Cleaning, SQL, Tableau, VLOOKUP/XLOOKUP",2026-02-15
+JOB10147,Operations Analyst,DataBridge India,Bengaluru,FinTech,6.7,2-3,Statistics/Mathematics,Internship,Hybrid,"Communication, Data Cleaning, Google Sheets, Power Query, Statistics, VLOOKUP/XLOOKUP",2026-07-13
+JOB10148,Data Analyst,FinEdge Analytics,Bengaluru,SaaS,8.4,3-5,B.Com/MBA,Full-time,Hybrid,"Data Cleaning, ETL, Excel, Power Query, SQL",2026-06-12
+JOB10149,Operations Analyst,RetailPulse,Chennai,E-commerce,5.8,1-2,B.Com/MBA,Contract,Hybrid,"Business Analysis, Data Cleaning, Excel, Google Sheets, Power BI, Python, Tableau, VLOOKUP/XLOOKUP",2026-02-09
+JOB10150,Business Analyst,BrightOps,Bengaluru,Retail,6.3,0-1,Any Graduate,Full-time,On-site,"Communication, Data Cleaning, Excel, Google Sheets, Power BI, Python, Statistics, Tableau",2026-04-25
+JOB10151,Junior Data Analyst,BrightOps,Bengaluru,E-commerce,8.6,2-3,B.Com/MBA,Full-time,On-site,"Excel, Google Sheets, SQL, Tableau, VLOOKUP/XLOOKUP",2026-05-27
+JOB10152,BI Analyst,FinEdge Analytics,Mumbai,Healthcare,7.3,2-3,B.Com/MBA,Internship,Remote,"ETL, Excel, Power Query, SQL, Tableau",2026-04-03
+JOB10153,Reporting Analyst,NextGen Systems,Remote,Retail,3.3,0-1,Statistics/Mathematics,Full-time,Remote,"Business Analysis, Data Cleaning, Google Sheets, Power Query, Statistics",2026-04-23
+JOB10154,Junior Data Analyst,InsightWorks,Pune,Healthcare,7.8,3-5,Statistics/Mathematics,Internship,On-site,"Communication, ETL, Excel, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-04-04
+JOB10155,Data Analyst,DataBridge India,Remote,Retail,5.3,1-2,B.Com/MBA,Full-time,Remote,"Business Analysis, DAX, Excel, Power BI, Power Query, SQL, Tableau",2026-03-06
+JOB10156,Data Associate,NextGen Systems,Chennai,E-commerce,8.3,3-5,Statistics/Mathematics,Full-time,Remote,"Communication, Data Cleaning, ETL, Excel, Google Sheets, Python, VLOOKUP/XLOOKUP",2026-06-18
+JOB10157,Operations Analyst,MarketSphere,Delhi NCR,Healthcare,7.6,3-5,B.Com/MBA,Contract,Hybrid,"Communication, ETL, Python, Tableau, VLOOKUP/XLOOKUP",2026-05-29
+JOB10158,Data Associate,Quantify Labs,Hyderabad,Healthcare,8.3,2-3,Statistics/Mathematics,Contract,Hybrid,"Business Analysis, Communication, Excel, Power BI, Power Query, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-03-29
+JOB10159,Data Associate,DataBridge India,Bengaluru,Healthcare,9.7,3-5,Statistics/Mathematics,Full-time,Remote,"Business Analysis, Communication, DAX, Excel, Google Sheets, SQL, Statistics, Tableau",2026-01-28
+JOB10160,MIS Executive,TechNova Solutions,Delhi NCR,Healthcare,9.9,3-5,B.Com/MBA,Internship,Hybrid,"Business Analysis, Communication, ETL, Google Sheets, Power BI, Power Query",2026-04-12
+JOB10161,Operations Analyst,CloudMatrix,Kolkata,SaaS,4.1,1-2,Any Graduate,Contract,Remote,"Data Cleaning, Excel, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-03-25
+JOB10162,Data Associate,DataBridge India,Delhi NCR,BPO,9.0,3-5,Any Graduate,Full-time,Hybrid,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, Statistics, Tableau",2026-01-22
+JOB10163,Business Analyst,BrightOps,Hyderabad,E-commerce,7.5,2-3,Statistics/Mathematics,Full-time,Hybrid,"Business Analysis, Data Cleaning, ETL, Excel, Google Sheets, Power BI, Power Query, Python, VLOOKUP/XLOOKUP",2026-06-12
+JOB10164,BI Analyst,BrightOps,Hyderabad,SaaS,5.1,1-2,B.Com/MBA,Internship,Hybrid,"DAX, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics",2026-05-24
+JOB10165,Operations Analyst,Quantify Labs,Remote,SaaS,7.4,3-5,Statistics/Mathematics,Internship,Remote,"Business Analysis, Communication, ETL, Google Sheets, Power BI, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-02-13
+JOB10166,Business Analyst,InsightWorks,Mumbai,Healthcare,7.5,2-3,B.Tech/M.Tech,Full-time,Hybrid,"DAX, ETL, Google Sheets, Python, VLOOKUP/XLOOKUP",2026-04-19
+JOB10167,BI Analyst,RetailPulse,Delhi NCR,E-commerce,4.5,0-1,Statistics/Mathematics,Full-time,On-site,"Business Analysis, ETL, Excel, Google Sheets, SQL",2026-06-11
+JOB10168,Reporting Analyst,FinEdge Analytics,Kolkata,E-commerce,6.2,2-3,BCA/MCA,Full-time,On-site,"Communication, DAX, Data Cleaning, Excel, Power BI, Python, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-16
+JOB10169,Junior Data Analyst,BrightOps,Pune,Consulting,8.3,3-5,B.Tech/M.Tech,Contract,Hybrid,"Business Analysis, Communication, DAX, ETL, Excel, Power Query, SQL, Statistics, Tableau",2026-04-14
+JOB10170,Junior Data Analyst,CloudMatrix,Kolkata,SaaS,4.3,0-1,B.Tech/M.Tech,Contract,Hybrid,"Business Analysis, Communication, Data Cleaning, ETL, Excel, SQL, Statistics, VLOOKUP/XLOOKUP",2026-07-31
+JOB10171,Junior Data Analyst,DataBridge India,Hyderabad,SaaS,9.2,3-5,B.Com/MBA,Full-time,Hybrid,"Business Analysis, Communication, DAX, Excel, SQL",2026-02-01
+JOB10172,Reporting Analyst,RetailPulse,Hyderabad,Consulting,6.0,2-3,BCA/MCA,Contract,Remote,"Business Analysis, Communication, ETL, Excel, Power BI, Statistics, Tableau",2026-01-14
+JOB10173,Business Analyst,TechNova Solutions,Bengaluru,BPO,4.4,0-1,Any Graduate,Contract,Remote,"DAX, Data Cleaning, Power BI, Python, VLOOKUP/XLOOKUP",2026-01-03
+JOB10174,MIS Executive,FinEdge Analytics,Remote,E-commerce,3.5,0-1,B.Com/MBA,Full-time,Remote,"Business Analysis, ETL, Excel, Google Sheets, Statistics",2026-04-05
+JOB10175,Business Analyst,CloudMatrix,Kolkata,FinTech,4.7,1-2,Any Graduate,Full-time,On-site,"Communication, DAX, Data Cleaning, ETL, Power BI, Power Query",2026-08-09
+JOB10176,Operations Analyst,MarketSphere,Delhi NCR,Consulting,8.1,3-5,Any Graduate,Internship,Hybrid,"Business Analysis, Communication, Excel, Python, Tableau, VLOOKUP/XLOOKUP",2026-06-03
+JOB10177,Reporting Analyst,CloudMatrix,Pune,SaaS,7.8,3-5,Statistics/Mathematics,Full-time,Remote,"Business Analysis, DAX, Google Sheets, Power Query, Python",2026-01-29
+JOB10178,Data Analyst,TechNova Solutions,Delhi NCR,Consulting,6.2,2-3,BCA/MCA,Full-time,On-site,"Communication, DAX, Excel, Power BI, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-18
+JOB10179,Operations Analyst,InsightWorks,Mumbai,Healthcare,8.6,3-5,BCA/MCA,Internship,Hybrid,"Communication, Data Cleaning, ETL, Excel, Power BI, SQL, Tableau, VLOOKUP/XLOOKUP",2026-03-21
+JOB10180,Operations Analyst,MarketSphere,Bengaluru,IT Services,8.2,2-3,B.Tech/M.Tech,Internship,Remote,"DAX, ETL, Excel, Power Query, Python, SQL",2026-06-06
+JOB10181,MIS Executive,FinEdge Analytics,Bengaluru,E-commerce,5.7,0-1,B.Tech/M.Tech,Full-time,Remote,"Communication, DAX, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-07-20
+JOB10182,BI Analyst,Quantify Labs,Bengaluru,E-commerce,4.7,0-1,B.Tech/M.Tech,Full-time,Hybrid,"Business Analysis, DAX, Data Cleaning, Excel, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-01-15
+JOB10183,Business Analyst,RetailPulse,Bengaluru,E-commerce,7.0,1-2,BCA/MCA,Full-time,Remote,"Business Analysis, DAX, Google Sheets, Python, SQL",2026-04-04
+JOB10184,Operations Analyst,CloudMatrix,Pune,IT Services,6.2,2-3,B.Com/MBA,Full-time,Hybrid,"Data Cleaning, Excel, Google Sheets, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-02-15
+JOB10185,BI Analyst,Quantify Labs,Mumbai,Healthcare,6.2,2-3,Statistics/Mathematics,Full-time,On-site,"DAX, Data Cleaning, ETL, Excel, Python, SQL, Statistics, Tableau",2026-06-01
+JOB10186,Data Analyst,BrightOps,Chennai,Healthcare,3.4,0-1,B.Com/MBA,Contract,On-site,"ETL, Excel, Google Sheets, Power Query, SQL, Statistics, Tableau",2026-02-22
+JOB10187,MIS Executive,InsightWorks,Mumbai,E-commerce,3.6,0-1,B.Com/MBA,Full-time,Remote,"Business Analysis, DAX, Excel, Power Query, Statistics, VLOOKUP/XLOOKUP",2026-05-29
+JOB10188,Data Analyst,DataBridge India,Chennai,FinTech,4.6,1-2,BCA/MCA,Full-time,On-site,"Communication, DAX, Excel, Google Sheets, Power Query, SQL, Tableau",2026-02-21
+JOB10189,Data Associate,DataBridge India,Remote,Consulting,6.5,2-3,Statistics/Mathematics,Full-time,Remote,"Communication, DAX, Data Cleaning, Google Sheets, Power Query, Python, SQL, Statistics, Tableau",2026-01-24
+JOB10190,Junior Data Analyst,Quantify Labs,Hyderabad,Healthcare,5.0,0-1,Any Graduate,Contract,On-site,"Communication, Data Cleaning, Excel, Power BI, SQL, Tableau, VLOOKUP/XLOOKUP",2026-04-14
+JOB10191,MIS Executive,InsightWorks,Bengaluru,IT Services,4.0,0-1,Any Graduate,Full-time,Remote,"Excel, Power BI, Power Query, Python, Statistics, Tableau",2026-07-28
+JOB10192,Data Associate,TechNova Solutions,Hyderabad,Retail,5.5,0-1,B.Com/MBA,Full-time,Hybrid,"DAX, Excel, Google Sheets, Power BI, Power Query, SQL, VLOOKUP/XLOOKUP",2026-05-08
+JOB10193,Reporting Analyst,RetailPulse,Hyderabad,SaaS,6.4,2-3,Any Graduate,Full-time,Hybrid,"Data Cleaning, ETL, Google Sheets, Python, SQL, Tableau",2026-05-08
+JOB10194,Operations Analyst,MarketSphere,Hyderabad,BPO,7.6,3-5,B.Com/MBA,Contract,On-site,"Business Analysis, Communication, DAX, Power Query, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-03-30
+JOB10195,Data Analyst,CloudMatrix,Delhi NCR,Consulting,4.6,1-2,Statistics/Mathematics,Internship,On-site,"DAX, Excel, Google Sheets, Power BI, Python, Statistics, VLOOKUP/XLOOKUP",2026-03-05
+JOB10196,Reporting Analyst,NextGen Systems,Chennai,E-commerce,7.8,2-3,Statistics/Mathematics,Full-time,Hybrid,"Communication, Data Cleaning, Power BI, Python, SQL, Statistics",2026-06-30
+JOB10197,BI Analyst,NextGen Systems,Hyderabad,Healthcare,7.2,3-5,BCA/MCA,Contract,Remote,"Business Analysis, Data Cleaning, Excel, Python, VLOOKUP/XLOOKUP",2026-01-01
+JOB10198,MIS Executive,MarketSphere,Delhi NCR,FinTech,3.4,0-1,B.Tech/M.Tech,Contract,Hybrid,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Power BI, Power Query, Statistics, VLOOKUP/XLOOKUP",2026-04-12
+JOB10199,MIS Executive,DataBridge India,Hyderabad,Retail,9.2,3-5,B.Tech/M.Tech,Internship,Remote,"Business Analysis, Communication, Data Cleaning, Google Sheets, Power BI, Python, Statistics, VLOOKUP/XLOOKUP",2026-05-31
+JOB10200,BI Analyst,DataBridge India,Hyderabad,BPO,6.3,1-2,Any Graduate,Full-time,Hybrid,"Data Cleaning, Excel, Power BI, Power Query, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-05-08
+JOB10201,Junior Data Analyst,InsightWorks,Hyderabad,IT Services,5.3,0-1,Any Graduate,Contract,Hybrid,"Communication, DAX, Excel, Python, SQL, Statistics, Tableau",2026-03-07
+JOB10202,Operations Analyst,TechNova Solutions,Hyderabad,Consulting,8.4,3-5,Any Graduate,Contract,Hybrid,"DAX, Excel, Google Sheets, Power BI, Power Query, Python, Statistics, VLOOKUP/XLOOKUP",2026-01-19
+JOB10203,Business Analyst,RetailPulse,Bengaluru,E-commerce,6.8,2-3,Statistics/Mathematics,Contract,On-site,"Communication, DAX, ETL, Excel, Google Sheets, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-01-08
+JOB10204,Data Analyst,TechNova Solutions,Bengaluru,Retail,6.9,2-3,Statistics/Mathematics,Internship,Hybrid,"Data Cleaning, Excel, Google Sheets, Power Query, SQL, Tableau",2026-01-25
+JOB10205,MIS Executive,InsightWorks,Kolkata,IT Services,4.8,2-3,BCA/MCA,Full-time,Remote,"Communication, DAX, Data Cleaning, Google Sheets, Tableau",2026-02-21
+JOB10206,BI Analyst,RetailPulse,Bengaluru,BPO,10.1,3-5,BCA/MCA,Contract,On-site,"Business Analysis, DAX, ETL, Excel, Google Sheets, SQL, Tableau",2026-04-05
+JOB10207,BI Analyst,BrightOps,Remote,Retail,7.6,3-5,Statistics/Mathematics,Full-time,Remote,"Business Analysis, Communication, Data Cleaning, Excel, Power BI, SQL, Statistics",2026-07-26
+JOB10208,Operations Analyst,BrightOps,Chennai,E-commerce,8.3,3-5,Any Graduate,Contract,On-site,"DAX, Excel, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-05-27
+JOB10209,MIS Executive,InsightWorks,Pune,FinTech,4.5,1-2,B.Com/MBA,Internship,Hybrid,"Communication, DAX, Excel, Power BI, Power Query, Python, Statistics, Tableau",2026-07-26
+JOB10210,Junior Data Analyst,DataBridge India,Mumbai,E-commerce,10.0,3-5,Statistics/Mathematics,Internship,Remote,"Data Cleaning, ETL, Excel, SQL, VLOOKUP/XLOOKUP",2026-04-17
+JOB10211,Business Analyst,DataBridge India,Bengaluru,Retail,5.9,0-1,Any Graduate,Contract,Hybrid,"DAX, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics, Tableau",2026-04-14
+JOB10212,Reporting Analyst,DataBridge India,Kolkata,Consulting,8.8,3-5,B.Com/MBA,Contract,Hybrid,"Communication, DAX, ETL, Excel, SQL, Statistics, Tableau",2026-02-28
+JOB10213,Operations Analyst,BrightOps,Bengaluru,Retail,6.2,1-2,BCA/MCA,Internship,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-03-21
+JOB10214,Data Analyst,CloudMatrix,Hyderabad,Consulting,6.7,1-2,B.Tech/M.Tech,Contract,Remote,"Business Analysis, Communication, DAX, Excel, Google Sheets, SQL",2026-06-30
+JOB10215,Operations Analyst,FinEdge Analytics,Bengaluru,FinTech,4.5,0-1,B.Tech/M.Tech,Full-time,Hybrid,"Business Analysis, DAX, Data Cleaning, ETL, Google Sheets, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-02-11
+JOB10216,Data Analyst,Quantify Labs,Hyderabad,E-commerce,6.6,1-2,BCA/MCA,Internship,On-site,"Business Analysis, Excel, Power Query, Python, SQL, Tableau",2026-01-03
+JOB10217,Reporting Analyst,BrightOps,Mumbai,Retail,7.9,2-3,Statistics/Mathematics,Full-time,On-site,"Business Analysis, Communication, DAX, Power Query, Python, Statistics, Tableau",2026-03-19
+JOB10218,Junior Data Analyst,DataBridge India,Mumbai,Healthcare,7.8,2-3,Any Graduate,Internship,Hybrid,"Communication, Data Cleaning, ETL, Excel, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-02-18
+JOB10219,Junior Data Analyst,CloudMatrix,Hyderabad,SaaS,4.9,0-1,B.Tech/M.Tech,Internship,Hybrid,"ETL, Excel, Google Sheets, Power Query, SQL, Statistics, Tableau",2026-07-02
+JOB10220,MIS Executive,InsightWorks,Hyderabad,Healthcare,5.9,2-3,B.Tech/M.Tech,Full-time,Remote,"Business Analysis, ETL, Power BI, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-06-17
+JOB10221,BI Analyst,RetailPulse,Chennai,Consulting,6.3,2-3,B.Com/MBA,Full-time,On-site,"Business Analysis, Communication, DAX, ETL, Excel, Google Sheets, SQL, Tableau, VLOOKUP/XLOOKUP",2026-01-31
+JOB10222,MIS Executive,TechNova Solutions,Pune,IT Services,6.6,2-3,B.Com/MBA,Contract,On-site,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Google Sheets, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-03-22
+JOB10223,MIS Executive,RetailPulse,Hyderabad,SaaS,9.2,3-5,B.Com/MBA,Full-time,On-site,"Communication, Data Cleaning, ETL, Power BI, Power Query",2026-04-14
+JOB10224,Reporting Analyst,RetailPulse,Delhi NCR,Consulting,5.7,0-1,BCA/MCA,Full-time,On-site,"Business Analysis, Communication, Data Cleaning, Excel, Google Sheets, Power BI, Python, SQL, Statistics",2026-01-27
+JOB10225,BI Analyst,RetailPulse,Mumbai,IT Services,9.5,3-5,BCA/MCA,Full-time,Remote,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-07-27
+JOB10226,MIS Executive,FinEdge Analytics,Pune,IT Services,4.6,0-1,Statistics/Mathematics,Full-time,Remote,"Communication, ETL, Excel, Power Query, SQL, Statistics",2026-06-13
+JOB10227,Business Analyst,TechNova Solutions,Kolkata,Consulting,4.2,0-1,B.Com/MBA,Internship,On-site,"Business Analysis, DAX, ETL, Excel, Power BI, Power Query, Tableau, VLOOKUP/XLOOKUP",2026-06-27
+JOB10228,BI Analyst,InsightWorks,Hyderabad,SaaS,9.3,3-5,BCA/MCA,Internship,On-site,"Data Cleaning, ETL, Excel, SQL, Tableau",2026-07-20
+JOB10229,BI Analyst,TechNova Solutions,Pune,FinTech,7.4,2-3,Any Graduate,Internship,Remote,"Communication, DAX, Excel, Power BI, Python, Statistics, VLOOKUP/XLOOKUP",2026-01-01
+JOB10230,Data Associate,FinEdge Analytics,Hyderabad,Consulting,5.2,0-1,B.Com/MBA,Full-time,On-site,"Business Analysis, ETL, Excel, Python, Tableau",2026-04-27
+JOB10231,MIS Executive,DataBridge India,Kolkata,BPO,5.8,2-3,B.Tech/M.Tech,Contract,Remote,"Data Cleaning, ETL, Excel, Google Sheets, Power BI, Power Query, SQL",2026-06-19
+JOB10232,BI Analyst,Quantify Labs,Bengaluru,Retail,8.5,2-3,BCA/MCA,Full-time,On-site,"DAX, Excel, Google Sheets, Power Query, SQL, Tableau",2026-08-06
+JOB10233,Data Analyst,Quantify Labs,Hyderabad,FinTech,4.2,0-1,B.Com/MBA,Contract,On-site,"Business Analysis, Communication, ETL, Excel, Google Sheets, Power BI, Power Query, SQL, VLOOKUP/XLOOKUP",2026-05-04
+JOB10234,Business Analyst,CloudMatrix,Mumbai,SaaS,6.0,2-3,B.Tech/M.Tech,Internship,Remote,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Google Sheets, Python, Statistics, VLOOKUP/XLOOKUP",2026-07-06
+JOB10235,Operations Analyst,CloudMatrix,Hyderabad,BPO,3.1,0-1,B.Tech/M.Tech,Full-time,Remote,"DAX, ETL, Excel, Google Sheets, Power BI, VLOOKUP/XLOOKUP",2026-03-24
+JOB10236,Reporting Analyst,Quantify Labs,Chennai,SaaS,9.0,3-5,B.Tech/M.Tech,Full-time,Hybrid,"Business Analysis, DAX, Data Cleaning, Excel, Google Sheets",2026-08-08
+JOB10237,Data Analyst,NextGen Systems,Bengaluru,BPO,8.9,3-5,Any Graduate,Full-time,Hybrid,"Communication, Data Cleaning, Excel, Power Query, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-04-27
+JOB10238,Junior Data Analyst,NextGen Systems,Remote,Consulting,7.3,2-3,Statistics/Mathematics,Internship,Remote,"Communication, Excel, Google Sheets, Python, SQL",2026-03-29
+JOB10239,Business Analyst,CloudMatrix,Kolkata,BPO,4.8,1-2,Any Graduate,Contract,On-site,"Business Analysis, Communication, Data Cleaning, Excel, Power Query, Python, Tableau, VLOOKUP/XLOOKUP",2026-04-28
+JOB10240,Business Analyst,BrightOps,Remote,E-commerce,8.7,3-5,Statistics/Mathematics,Full-time,Remote,"Communication, DAX, ETL, Google Sheets, Power BI, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-05-04
+JOB10241,Business Analyst,DataBridge India,Chennai,E-commerce,6.7,2-3,B.Com/MBA,Internship,Remote,"Business Analysis, Data Cleaning, ETL, Power BI, Power Query, Python, Statistics, Tableau",2026-04-26
+JOB10242,BI Analyst,Quantify Labs,Delhi NCR,Retail,5.0,1-2,Statistics/Mathematics,Contract,Hybrid,"Business Analysis, Communication, DAX, ETL, Excel, Power BI, SQL, Statistics, Tableau",2026-05-24
+JOB10243,Data Analyst,FinEdge Analytics,Bengaluru,E-commerce,4.8,0-1,Any Graduate,Internship,Hybrid,"Communication, Excel, Power BI, SQL, Tableau",2026-06-24
+JOB10244,Reporting Analyst,BrightOps,Kolkata,Retail,7.0,2-3,BCA/MCA,Internship,Remote,"Communication, Data Cleaning, ETL, Python, VLOOKUP/XLOOKUP",2026-07-10
+JOB10245,BI Analyst,NextGen Systems,Kolkata,Healthcare,7.3,3-5,BCA/MCA,Contract,Hybrid,"Data Cleaning, Excel, Google Sheets, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-06-30
+JOB10246,MIS Executive,FinEdge Analytics,Bengaluru,IT Services,7.6,1-2,B.Tech/M.Tech,Contract,Remote,"Business Analysis, Communication, Data Cleaning, Excel, Google Sheets, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-05-30
+JOB10247,MIS Executive,BrightOps,Kolkata,Healthcare,6.0,1-2,BCA/MCA,Internship,On-site,"Business Analysis, Communication, DAX, Data Cleaning, Google Sheets, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-03-23
+JOB10248,MIS Executive,MarketSphere,Chennai,SaaS,7.0,3-5,Statistics/Mathematics,Internship,On-site,"Communication, ETL, Google Sheets, Python, Statistics, Tableau",2026-02-25
+JOB10249,Business Analyst,FinEdge Analytics,Delhi NCR,IT Services,7.9,3-5,Statistics/Mathematics,Contract,Remote,"Communication, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, Python, SQL, Statistics",2026-05-19
+JOB10250,Data Associate,TechNova Solutions,Remote,FinTech,3.7,0-1,BCA/MCA,Internship,Remote,"ETL, Excel, Google Sheets, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-05-17
+JOB10251,Operations Analyst,TechNova Solutions,Bengaluru,FinTech,6.5,1-2,Any Graduate,Full-time,On-site,"Business Analysis, Communication, DAX, ETL, Excel, Power BI, SQL, Statistics",2026-03-26
+JOB10252,BI Analyst,TechNova Solutions,Bengaluru,FinTech,7.5,1-2,Statistics/Mathematics,Full-time,Remote,"Business Analysis, Communication, ETL, Excel, Power Query, Python, SQL, Statistics",2026-05-17
+JOB10253,Business Analyst,DataBridge India,Delhi NCR,Healthcare,4.1,0-1,BCA/MCA,Internship,Hybrid,"Business Analysis, DAX, Data Cleaning, Excel, Power Query, SQL, Tableau",2026-05-02
+JOB10254,BI Analyst,MarketSphere,Hyderabad,Retail,7.4,2-3,Statistics/Mathematics,Internship,On-site,"Business Analysis, ETL, Excel, Google Sheets, Power BI, SQL, VLOOKUP/XLOOKUP",2026-05-27
+JOB10255,BI Analyst,MarketSphere,Pune,IT Services,6.1,2-3,Statistics/Mathematics,Contract,Remote,"Business Analysis, Communication, Data Cleaning, Excel, Google Sheets, Power BI, Python, SQL, Tableau",2026-06-21
+JOB10256,Business Analyst,CloudMatrix,Mumbai,FinTech,4.2,0-1,B.Tech/M.Tech,Internship,On-site,"Communication, DAX, Data Cleaning, ETL, Power BI, Statistics",2026-06-21
+JOB10257,Reporting Analyst,NextGen Systems,Delhi NCR,Healthcare,8.5,3-5,BCA/MCA,Internship,Remote,"Communication, Data Cleaning, ETL, Excel, Power BI, Python, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-02
+JOB10258,Operations Analyst,MarketSphere,Mumbai,FinTech,6.4,2-3,B.Tech/M.Tech,Full-time,Remote,"Business Analysis, DAX, ETL, Excel, Google Sheets, Statistics, Tableau",2026-02-14
+JOB10259,Reporting Analyst,RetailPulse,Mumbai,Healthcare,5.5,0-1,Any Graduate,Internship,Hybrid,"Business Analysis, Communication, Data Cleaning, SQL, VLOOKUP/XLOOKUP",2026-05-29
+JOB10260,Data Associate,TechNova Solutions,Hyderabad,Healthcare,6.7,2-3,Statistics/Mathematics,Internship,On-site,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Power BI, Python, Tableau, VLOOKUP/XLOOKUP",2026-05-09
+JOB10261,MIS Executive,InsightWorks,Remote,Consulting,4.6,1-2,B.Tech/M.Tech,Full-time,Remote,"Business Analysis, Communication, DAX, ETL, Power BI, Power Query, Python, SQL, Statistics",2026-03-01
+JOB10262,Reporting Analyst,FinEdge Analytics,Delhi NCR,E-commerce,8.6,3-5,B.Com/MBA,Internship,Hybrid,"Business Analysis, Communication, Excel, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-09
+JOB10263,Junior Data Analyst,DataBridge India,Bengaluru,SaaS,7.3,2-3,BCA/MCA,Full-time,On-site,"Data Cleaning, ETL, Excel, Power Query, SQL, Statistics",2026-05-09
+JOB10264,BI Analyst,Quantify Labs,Pune,SaaS,4.7,1-2,B.Com/MBA,Full-time,Remote,"Communication, Data Cleaning, ETL, Excel, Python, SQL, Statistics",2026-01-30
+JOB10265,MIS Executive,DataBridge India,Chennai,IT Services,3.5,0-1,BCA/MCA,Contract,On-site,"Business Analysis, Data Cleaning, ETL, Power BI, SQL, VLOOKUP/XLOOKUP",2026-05-27
+JOB10266,Operations Analyst,RetailPulse,Kolkata,E-commerce,7.4,2-3,Statistics/Mathematics,Full-time,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Power BI, Python",2026-08-01
+JOB10267,BI Analyst,BrightOps,Hyderabad,Retail,8.1,2-3,BCA/MCA,Internship,On-site,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, Python, SQL",2026-05-14
+JOB10268,MIS Executive,RetailPulse,Remote,Retail,5.3,0-1,B.Tech/M.Tech,Full-time,Remote,"DAX, ETL, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics, VLOOKUP/XLOOKUP",2026-06-16
+JOB10269,Reporting Analyst,RetailPulse,Remote,Consulting,7.8,3-5,BCA/MCA,Full-time,Remote,"Business Analysis, Communication, DAX, ETL, Excel, Power BI, Power Query, Python, Tableau",2026-05-20
+JOB10270,Business Analyst,BrightOps,Kolkata,Retail,8.1,3-5,Statistics/Mathematics,Contract,Remote,"Business Analysis, Excel, Power BI, Power Query, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-08-07
+JOB10271,BI Analyst,DataBridge India,Chennai,FinTech,5.1,1-2,BCA/MCA,Contract,Remote,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-07-08
+JOB10272,MIS Executive,TechNova Solutions,Bengaluru,FinTech,6.4,1-2,BCA/MCA,Contract,Remote,"Communication, Data Cleaning, Google Sheets, Power BI, Power Query, SQL, VLOOKUP/XLOOKUP",2026-06-12
+JOB10273,Operations Analyst,MarketSphere,Bengaluru,IT Services,4.5,0-1,BCA/MCA,Internship,Hybrid,"Communication, Data Cleaning, Excel, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-07-02
+JOB10274,Data Associate,TechNova Solutions,Kolkata,BPO,5.8,1-2,BCA/MCA,Internship,On-site,"Business Analysis, Communication, Data Cleaning, Excel, Google Sheets, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-06-22
+JOB10275,MIS Executive,InsightWorks,Bengaluru,FinTech,8.4,2-3,Statistics/Mathematics,Contract,Remote,"Communication, Data Cleaning, Google Sheets, Power Query, Python, SQL, VLOOKUP/XLOOKUP",2026-07-08
+JOB10276,Junior Data Analyst,InsightWorks,Delhi NCR,FinTech,6.4,2-3,Statistics/Mathematics,Contract,Hybrid,"DAX, Data Cleaning, Excel, Power BI, Power Query, Tableau",2026-05-10
+JOB10277,Business Analyst,FinEdge Analytics,Mumbai,FinTech,7.9,2-3,B.Com/MBA,Internship,On-site,"Business Analysis, DAX, Data Cleaning, ETL, Google Sheets, Python, SQL, Statistics",2026-01-30
+JOB10278,Reporting Analyst,NextGen Systems,Delhi NCR,FinTech,9.9,3-5,Statistics/Mathematics,Full-time,Hybrid,"Communication, Data Cleaning, ETL, Excel, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-11
+JOB10279,Junior Data Analyst,CloudMatrix,Delhi NCR,Healthcare,6.9,1-2,BCA/MCA,Full-time,Remote,"Communication, DAX, Excel, Power BI, Python, SQL, VLOOKUP/XLOOKUP",2026-03-09
+JOB10280,Junior Data Analyst,Quantify Labs,Hyderabad,BPO,3.4,0-1,Statistics/Mathematics,Contract,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Excel",2026-01-11
+JOB10281,BI Analyst,NextGen Systems,Remote,Retail,6.8,1-2,BCA/MCA,Contract,Remote,"Business Analysis, Data Cleaning, ETL, Excel, Google Sheets, Power BI, Power Query, Python, SQL",2026-05-09
+JOB10282,Data Associate,BrightOps,Delhi NCR,Consulting,3.3,0-1,BCA/MCA,Contract,Hybrid,"Communication, Data Cleaning, Excel, Power Query, Statistics, Tableau",2026-02-17
+JOB10283,Junior Data Analyst,DataBridge India,Delhi NCR,Healthcare,5.8,1-2,Any Graduate,Internship,Hybrid,"Business Analysis, Excel, Power Query, SQL, Statistics, Tableau",2026-05-27
+JOB10284,Reporting Analyst,BrightOps,Chennai,BPO,7.3,3-5,B.Com/MBA,Contract,Hybrid,"Business Analysis, DAX, Google Sheets, Power BI, Power Query, SQL",2026-02-04
+JOB10285,Data Analyst,NextGen Systems,Chennai,Consulting,4.7,0-1,B.Tech/M.Tech,Contract,Remote,"DAX, Excel, Python, SQL, Tableau",2026-07-10
+JOB10286,BI Analyst,NextGen Systems,Delhi NCR,SaaS,4.4,0-1,B.Com/MBA,Full-time,Hybrid,"Business Analysis, Communication, ETL, Excel, Python, SQL, VLOOKUP/XLOOKUP",2026-04-01
+JOB10287,BI Analyst,CloudMatrix,Remote,BPO,6.4,1-2,B.Tech/M.Tech,Internship,Remote,"Business Analysis, Data Cleaning, ETL, Excel, Power Query, SQL, VLOOKUP/XLOOKUP",2026-03-29
+JOB10288,BI Analyst,CloudMatrix,Chennai,Consulting,7.7,2-3,Any Graduate,Full-time,On-site,"DAX, Data Cleaning, Excel, Power BI, Power Query, SQL, VLOOKUP/XLOOKUP",2026-02-02
+JOB10289,Operations Analyst,DataBridge India,Bengaluru,FinTech,4.0,0-1,B.Com/MBA,Contract,On-site,"Business Analysis, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, SQL, VLOOKUP/XLOOKUP",2026-06-08
+JOB10290,Reporting Analyst,Quantify Labs,Mumbai,Consulting,9.2,3-5,Statistics/Mathematics,Contract,On-site,"Data Cleaning, ETL, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-05-02
+JOB10291,MIS Executive,FinEdge Analytics,Remote,E-commerce,8.3,3-5,B.Tech/M.Tech,Full-time,Remote,"DAX, ETL, Excel, Power BI, Power Query, Python, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-04-16
+JOB10292,MIS Executive,RetailPulse,Delhi NCR,Consulting,7.1,2-3,Statistics/Mathematics,Full-time,On-site,"DAX, ETL, Google Sheets, SQL, Tableau",2026-07-16
+JOB10293,Junior Data Analyst,CloudMatrix,Pune,Consulting,9.4,3-5,B.Tech/M.Tech,Internship,Remote,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Power BI, Power Query, SQL",2026-06-10
+JOB10294,BI Analyst,Quantify Labs,Chennai,Healthcare,6.3,1-2,B.Tech/M.Tech,Full-time,On-site,"Communication, DAX, Excel, Power BI, SQL, Tableau",2026-06-09
+JOB10295,Data Analyst,TechNova Solutions,Kolkata,SaaS,6.1,1-2,BCA/MCA,Contract,Hybrid,"DAX, ETL, Excel, Power BI, Python, SQL, Tableau",2026-02-08
+JOB10296,BI Analyst,RetailPulse,Remote,FinTech,6.7,2-3,Statistics/Mathematics,Contract,Remote,"Excel, Power BI, SQL, Statistics, Tableau",2026-07-18
+JOB10297,Reporting Analyst,TechNova Solutions,Mumbai,Healthcare,9.7,3-5,B.Com/MBA,Internship,On-site,"DAX, ETL, Google Sheets, Power Query, Python",2026-03-05
+JOB10298,Reporting Analyst,Quantify Labs,Remote,Consulting,8.7,3-5,BCA/MCA,Contract,Remote,"Communication, Data Cleaning, Excel, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-03-06
+JOB10299,Reporting Analyst,TechNova Solutions,Bengaluru,SaaS,6.7,1-2,Statistics/Mathematics,Full-time,Hybrid,"Data Cleaning, Excel, Power BI, Power Query, Python, SQL, Tableau",2026-01-03
+JOB10300,Business Analyst,InsightWorks,Pune,E-commerce,5.5,1-2,B.Com/MBA,Full-time,Hybrid,"Business Analysis, Communication, ETL, Google Sheets, Power BI, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-22
+JOB10301,Junior Data Analyst,Quantify Labs,Remote,Healthcare,4.2,1-2,Statistics/Mathematics,Full-time,Remote,"Communication, DAX, ETL, Excel, Power BI, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-05-19
+JOB10302,Junior Data Analyst,Quantify Labs,Remote,IT Services,7.7,2-3,Statistics/Mathematics,Contract,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Google Sheets, Power BI, SQL, VLOOKUP/XLOOKUP",2026-04-04
+JOB10303,Data Analyst,MarketSphere,Delhi NCR,Consulting,5.4,1-2,B.Tech/M.Tech,Contract,Remote,"Communication, Excel, Power Query, SQL, VLOOKUP/XLOOKUP",2026-02-09
+JOB10304,Junior Data Analyst,CloudMatrix,Bengaluru,FinTech,5.2,0-1,Any Graduate,Internship,Remote,"Business Analysis, Excel, Google Sheets, Power BI, Python",2026-05-05
+JOB10305,Operations Analyst,InsightWorks,Remote,SaaS,5.5,2-3,Any Graduate,Contract,Remote,"DAX, Data Cleaning, ETL, Excel, Python, SQL",2026-08-02
+JOB10306,Junior Data Analyst,CloudMatrix,Kolkata,Retail,6.2,2-3,BCA/MCA,Full-time,Remote,"Excel, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-01-26
+JOB10307,Reporting Analyst,RetailPulse,Hyderabad,BPO,9.1,3-5,BCA/MCA,Internship,Remote,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, Statistics, VLOOKUP/XLOOKUP",2026-05-21
+JOB10308,Data Associate,BrightOps,Delhi NCR,Healthcare,7.3,2-3,B.Com/MBA,Internship,Remote,"Business Analysis, Communication, ETL, Google Sheets, Power Query, Python, Statistics",2026-05-25
+JOB10309,BI Analyst,CloudMatrix,Delhi NCR,Healthcare,8.5,3-5,B.Tech/M.Tech,Full-time,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Google Sheets, Power BI, Tableau",2026-03-18
+JOB10310,BI Analyst,InsightWorks,Hyderabad,Retail,3.2,0-1,Statistics/Mathematics,Full-time,Remote,"Business Analysis, Data Cleaning, Excel, Power BI, Python, SQL, Statistics",2026-03-18
+JOB10311,Business Analyst,NextGen Systems,Delhi NCR,BPO,7.8,3-5,B.Com/MBA,Contract,On-site,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-07-17
+JOB10312,Reporting Analyst,RetailPulse,Kolkata,SaaS,6.4,3-5,Statistics/Mathematics,Internship,Remote,"Business Analysis, Data Cleaning, Excel, Google Sheets, Power BI, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-06-22
+JOB10313,Business Analyst,RetailPulse,Pune,Retail,7.8,3-5,BCA/MCA,Full-time,Hybrid,"Business Analysis, DAX, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics",2026-01-22
+JOB10314,Reporting Analyst,FinEdge Analytics,Remote,Retail,8.7,3-5,B.Tech/M.Tech,Internship,Remote,"Business Analysis, Data Cleaning, ETL, Google Sheets, Python, VLOOKUP/XLOOKUP",2026-01-19
+JOB10315,Business Analyst,NextGen Systems,Chennai,SaaS,7.8,3-5,Statistics/Mathematics,Full-time,Hybrid,"Business Analysis, Communication, Data Cleaning, SQL, Statistics, Tableau",2026-02-13
+JOB10316,Data Analyst,DataBridge India,Pune,Consulting,6.1,1-2,Any Graduate,Contract,Remote,"Business Analysis, ETL, Excel, Google Sheets, Python, SQL",2026-06-08
+JOB10317,Business Analyst,Quantify Labs,Mumbai,E-commerce,8.8,3-5,Any Graduate,Contract,Remote,"Business Analysis, Communication, ETL, Google Sheets, Python, Tableau, VLOOKUP/XLOOKUP",2026-05-21
+JOB10318,Data Analyst,InsightWorks,Mumbai,Retail,4.9,1-2,B.Tech/M.Tech,Internship,Remote,"Data Cleaning, ETL, Excel, Google Sheets, SQL, Tableau",2026-01-03
+JOB10319,Junior Data Analyst,TechNova Solutions,Bengaluru,IT Services,4.6,0-1,BCA/MCA,Internship,Hybrid,"Communication, DAX, Excel, Power Query, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-05-24
+JOB10320,Junior Data Analyst,TechNova Solutions,Remote,Consulting,8.9,3-5,B.Com/MBA,Full-time,Remote,"Business Analysis, ETL, Excel, SQL, Statistics",2026-03-12
+JOB10321,Reporting Analyst,CloudMatrix,Hyderabad,E-commerce,8.0,2-3,B.Com/MBA,Contract,Remote,"Data Cleaning, ETL, Excel, Power Query, Python, VLOOKUP/XLOOKUP",2026-04-17
+JOB10322,Junior Data Analyst,DataBridge India,Remote,Retail,4.7,1-2,BCA/MCA,Internship,Remote,"Communication, Data Cleaning, Excel, Power BI, Python, VLOOKUP/XLOOKUP",2026-05-15
+JOB10323,Junior Data Analyst,FinEdge Analytics,Bengaluru,E-commerce,4.3,0-1,BCA/MCA,Full-time,On-site,"Communication, ETL, Excel, SQL, Statistics, Tableau",2026-07-10
+JOB10324,MIS Executive,BrightOps,Kolkata,SaaS,6.4,2-3,B.Tech/M.Tech,Full-time,Hybrid,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-02-04
+JOB10325,Data Associate,CloudMatrix,Remote,Healthcare,4.5,1-2,Any Graduate,Full-time,Remote,"Business Analysis, Google Sheets, Power Query, Python, SQL, Tableau",2026-07-10
+JOB10326,Data Associate,MarketSphere,Delhi NCR,IT Services,9.7,3-5,Statistics/Mathematics,Full-time,Hybrid,"Business Analysis, Communication, Data Cleaning, Google Sheets, Power Query, SQL, Statistics, Tableau",2026-07-10
+JOB10327,Data Associate,RetailPulse,Kolkata,Consulting,4.9,1-2,B.Tech/M.Tech,Contract,On-site,"Business Analysis, ETL, Google Sheets, Power BI, Power Query, Python, SQL, VLOOKUP/XLOOKUP",2026-04-23
+JOB10328,Operations Analyst,MarketSphere,Mumbai,E-commerce,5.4,0-1,B.Com/MBA,Contract,Hybrid,"Business Analysis, Communication, DAX, Excel, Google Sheets, VLOOKUP/XLOOKUP",2026-02-16
+JOB10329,Data Associate,InsightWorks,Kolkata,SaaS,4.7,1-2,B.Tech/M.Tech,Full-time,Remote,"DAX, Excel, Google Sheets, Power BI, Statistics, Tableau",2026-01-24
+JOB10330,Operations Analyst,DataBridge India,Hyderabad,E-commerce,8.6,3-5,Any Graduate,Contract,Hybrid,"Business Analysis, Data Cleaning, Google Sheets, Power BI, Statistics",2026-02-11
+JOB10331,BI Analyst,Quantify Labs,Remote,SaaS,7.1,2-3,Statistics/Mathematics,Full-time,Remote,"Data Cleaning, Excel, Python, SQL, Tableau",2026-04-28
+JOB10332,Reporting Analyst,BrightOps,Pune,Healthcare,8.2,3-5,Any Graduate,Full-time,On-site,"DAX, Data Cleaning, Excel, Google Sheets, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-06-10
+JOB10333,Data Analyst,RetailPulse,Delhi NCR,E-commerce,3.7,0-1,BCA/MCA,Internship,Hybrid,"Data Cleaning, Excel, Google Sheets, Statistics, Tableau",2026-01-28
+JOB10334,MIS Executive,InsightWorks,Remote,Retail,7.9,2-3,Statistics/Mathematics,Full-time,Remote,"ETL, Google Sheets, Power Query, Statistics, Tableau",2026-07-29
+JOB10335,Data Associate,MarketSphere,Hyderabad,FinTech,5.0,0-1,B.Com/MBA,Internship,Remote,"Data Cleaning, Google Sheets, Power Query, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-01-28
+JOB10336,BI Analyst,FinEdge Analytics,Chennai,Healthcare,6.0,2-3,Any Graduate,Full-time,On-site,"Communication, DAX, Data Cleaning, Excel, Power BI, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-07-01
+JOB10337,Data Associate,FinEdge Analytics,Bengaluru,Consulting,7.2,1-2,Any Graduate,Contract,Hybrid,"Communication, ETL, Google Sheets, Power Query, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-02-21
+JOB10338,Junior Data Analyst,NextGen Systems,Kolkata,SaaS,4.2,0-1,B.Com/MBA,Full-time,Remote,"ETL, Excel, Google Sheets, Power BI, Power Query, Python, SQL",2026-08-02
+JOB10339,MIS Executive,CloudMatrix,Remote,BPO,5.8,1-2,B.Tech/M.Tech,Full-time,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-05
+JOB10340,BI Analyst,TechNova Solutions,Kolkata,Consulting,7.5,2-3,B.Com/MBA,Full-time,Hybrid,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Power BI, Power Query, SQL, VLOOKUP/XLOOKUP",2026-07-01
+JOB10341,Reporting Analyst,CloudMatrix,Delhi NCR,FinTech,9.5,3-5,B.Com/MBA,Internship,On-site,"Excel, Power BI, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-19
+JOB10342,Data Associate,TechNova Solutions,Hyderabad,SaaS,5.2,1-2,B.Com/MBA,Internship,Remote,"Data Cleaning, ETL, Excel, Google Sheets, Power BI, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-05
+JOB10343,Business Analyst,FinEdge Analytics,Kolkata,Healthcare,7.3,2-3,B.Tech/M.Tech,Full-time,On-site,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Google Sheets, SQL, Statistics, Tableau",2026-07-14
+JOB10344,BI Analyst,BrightOps,Mumbai,FinTech,8.1,2-3,BCA/MCA,Internship,Hybrid,"Business Analysis, Excel, Google Sheets, Power BI, SQL",2026-06-09
+JOB10345,Junior Data Analyst,TechNova Solutions,Mumbai,SaaS,7.2,1-2,Any Graduate,Full-time,Hybrid,"DAX, Excel, Power BI, Python, SQL, Statistics, Tableau",2026-02-03
+JOB10346,Data Analyst,Quantify Labs,Bengaluru,E-commerce,8.9,3-5,Any Graduate,Internship,Hybrid,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Power BI, SQL, Statistics, Tableau",2026-07-13
+JOB10347,Business Analyst,NextGen Systems,Remote,BPO,7.2,2-3,B.Com/MBA,Contract,Remote,"DAX, Data Cleaning, ETL, Google Sheets, Power BI, Python, Statistics, Tableau",2026-02-16
+JOB10348,Business Analyst,InsightWorks,Remote,BPO,3.8,0-1,Statistics/Mathematics,Internship,Remote,"Business Analysis, Data Cleaning, Excel, Google Sheets, Power BI, Python, Statistics, Tableau",2026-07-29
+JOB10349,BI Analyst,MarketSphere,Remote,Retail,8.5,3-5,B.Com/MBA,Internship,Remote,"DAX, Excel, Power BI, Power Query, Python, SQL",2026-02-23
+JOB10350,Reporting Analyst,Quantify Labs,Hyderabad,E-commerce,5.1,0-1,B.Tech/M.Tech,Contract,On-site,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Google Sheets, SQL, Statistics, Tableau",2026-07-30
+JOB10351,Business Analyst,DataBridge India,Chennai,E-commerce,6.6,2-3,B.Com/MBA,Internship,Hybrid,"Data Cleaning, Excel, Power BI, Python, SQL",2026-07-13
+JOB10352,Operations Analyst,TechNova Solutions,Remote,Retail,4.7,1-2,BCA/MCA,Contract,Remote,"Business Analysis, Communication, Data Cleaning, Excel, Power Query, Statistics, Tableau",2026-05-30
+JOB10353,Junior Data Analyst,RetailPulse,Kolkata,Retail,4.2,0-1,B.Com/MBA,Contract,Remote,"Data Cleaning, Excel, Power Query, Python, SQL, Statistics, Tableau",2026-07-02
+JOB10354,Reporting Analyst,TechNova Solutions,Hyderabad,E-commerce,7.5,3-5,B.Com/MBA,Internship,Hybrid,"Business Analysis, Communication, ETL, Power BI, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-06-15
+JOB10355,MIS Executive,BrightOps,Bengaluru,SaaS,6.7,1-2,B.Com/MBA,Contract,On-site,"Business Analysis, DAX, Data Cleaning, ETL, Google Sheets, Power BI, Power Query, Tableau",2026-04-19
+JOB10356,MIS Executive,TechNova Solutions,Chennai,SaaS,4.4,0-1,B.Tech/M.Tech,Full-time,Remote,"ETL, Google Sheets, Power Query, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-09
+JOB10357,Data Associate,InsightWorks,Bengaluru,Consulting,7.0,1-2,Statistics/Mathematics,Full-time,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Google Sheets, Python, Tableau, VLOOKUP/XLOOKUP",2026-06-11
+JOB10358,Data Analyst,MarketSphere,Remote,Consulting,8.3,3-5,Statistics/Mathematics,Contract,Remote,"ETL, Excel, Google Sheets, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-06-27
+JOB10359,Data Associate,BrightOps,Hyderabad,FinTech,4.9,0-1,B.Tech/M.Tech,Contract,On-site,"DAX, Data Cleaning, ETL, Excel, Google Sheets, SQL, Tableau",2026-02-02
+JOB10360,BI Analyst,CloudMatrix,Mumbai,SaaS,6.0,2-3,BCA/MCA,Internship,On-site,"DAX, Data Cleaning, Excel, Google Sheets, SQL",2026-03-08
+JOB10361,Junior Data Analyst,CloudMatrix,Bengaluru,BPO,6.6,1-2,Any Graduate,Internship,Hybrid,"Business Analysis, DAX, ETL, Excel, Power Query, Python",2026-02-12
+JOB10362,Business Analyst,DataBridge India,Kolkata,Retail,4.8,1-2,Any Graduate,Contract,Hybrid,"Communication, DAX, Data Cleaning, ETL, Power Query, Python, Tableau, VLOOKUP/XLOOKUP",2026-03-09
+JOB10363,Operations Analyst,MarketSphere,Delhi NCR,Retail,3.6,0-1,B.Com/MBA,Internship,Remote,"Business Analysis, Communication, Data Cleaning, Google Sheets, Power BI, Power Query, SQL, Statistics, Tableau",2026-03-07
+JOB10364,Reporting Analyst,RetailPulse,Pune,FinTech,7.3,2-3,Statistics/Mathematics,Full-time,Remote,"Communication, ETL, Excel, SQL, Statistics, VLOOKUP/XLOOKUP",2026-01-04
+JOB10365,Data Associate,InsightWorks,Delhi NCR,FinTech,6.5,1-2,Any Graduate,Internship,On-site,"Business Analysis, Data Cleaning, ETL, Excel, Google Sheets, Python, SQL",2026-06-03
+JOB10366,Operations Analyst,NextGen Systems,Hyderabad,Consulting,5.0,0-1,BCA/MCA,Full-time,Hybrid,"Business Analysis, Communication, DAX, Excel, Google Sheets, Power Query, Tableau",2026-06-27
+JOB10367,Data Analyst,MarketSphere,Chennai,Retail,7.7,3-5,BCA/MCA,Internship,Hybrid,"Business Analysis, Excel, Power BI, SQL, Tableau",2026-02-21
+JOB10368,Business Analyst,InsightWorks,Hyderabad,Consulting,7.7,3-5,B.Com/MBA,Full-time,Hybrid,"DAX, ETL, Excel, SQL, Tableau",2026-01-19
+JOB10369,MIS Executive,RetailPulse,Kolkata,Retail,4.1,0-1,Any Graduate,Internship,On-site,"DAX, Data Cleaning, ETL, Power BI, Power Query, SQL, Statistics",2026-05-03
+JOB10370,Data Analyst,NextGen Systems,Chennai,FinTech,7.1,3-5,B.Com/MBA,Contract,Remote,"Business Analysis, Communication, ETL, Excel, Power BI, Power Query, SQL, Statistics, Tableau",2026-08-07
+JOB10371,Reporting Analyst,Quantify Labs,Hyderabad,Healthcare,5.7,0-1,BCA/MCA,Full-time,On-site,"DAX, ETL, Excel, Power Query, Statistics, Tableau",2026-01-22
+JOB10372,Data Analyst,TechNova Solutions,Pune,Retail,8.0,3-5,Any Graduate,Full-time,Remote,"Business Analysis, Communication, DAX, Data Cleaning, ETL, Excel, Power BI, Tableau, VLOOKUP/XLOOKUP",2026-07-21
+JOB10373,Data Associate,MarketSphere,Hyderabad,IT Services,6.8,1-2,BCA/MCA,Internship,Remote,"Communication, DAX, ETL, Power BI, SQL",2026-05-01
+JOB10374,MIS Executive,InsightWorks,Kolkata,FinTech,5.2,1-2,B.Com/MBA,Internship,Remote,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Google Sheets, Power BI",2026-07-29
+JOB10375,Reporting Analyst,CloudMatrix,Bengaluru,IT Services,6.2,1-2,Statistics/Mathematics,Full-time,Hybrid,"Business Analysis, Communication, Data Cleaning, Excel, Power BI, Power Query, Statistics, VLOOKUP/XLOOKUP",2026-07-23
+JOB10376,Business Analyst,DataBridge India,Bengaluru,FinTech,6.7,2-3,Statistics/Mathematics,Contract,On-site,"Business Analysis, DAX, ETL, Power BI, Python, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-11
+JOB10377,Data Analyst,Quantify Labs,Remote,E-commerce,2.9,0-1,BCA/MCA,Full-time,Remote,"Communication, Data Cleaning, ETL, Excel, SQL, Tableau",2026-07-26
+JOB10378,Data Associate,BrightOps,Chennai,Healthcare,6.5,1-2,BCA/MCA,Full-time,Remote,"Communication, DAX, Data Cleaning, ETL, Excel, Power BI, Python, SQL, Tableau",2026-01-02
+JOB10379,Business Analyst,DataBridge India,Delhi NCR,E-commerce,5.8,1-2,Any Graduate,Full-time,Remote,"DAX, Excel, Power BI, Python, SQL, Tableau",2026-05-08
+JOB10380,Junior Data Analyst,TechNova Solutions,Mumbai,SaaS,5.9,1-2,Statistics/Mathematics,Full-time,On-site,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power BI, SQL",2026-02-10
+JOB10381,Reporting Analyst,RetailPulse,Remote,Healthcare,6.5,2-3,B.Com/MBA,Full-time,Remote,"Business Analysis, Data Cleaning, ETL, Excel, Google Sheets, Python, Statistics",2026-07-08
+JOB10382,Data Associate,Quantify Labs,Remote,Healthcare,5.3,0-1,B.Tech/M.Tech,Contract,Remote,"DAX, Data Cleaning, Power BI, Power Query, Python, Statistics",2026-02-04
+JOB10383,Junior Data Analyst,NextGen Systems,Hyderabad,Healthcare,5.0,0-1,B.Tech/M.Tech,Internship,On-site,"Communication, Excel, Power BI, SQL, Tableau",2026-02-13
+JOB10384,MIS Executive,CloudMatrix,Pune,Healthcare,4.1,0-1,B.Tech/M.Tech,Contract,Remote,"Business Analysis, Communication, DAX, Data Cleaning, Google Sheets, Python, SQL, Statistics, Tableau",2026-07-08
+JOB10385,Reporting Analyst,BrightOps,Hyderabad,Retail,4.2,0-1,B.Com/MBA,Internship,On-site,"Business Analysis, DAX, ETL, SQL, VLOOKUP/XLOOKUP",2026-04-19
+JOB10386,Data Associate,FinEdge Analytics,Remote,Healthcare,4.3,1-2,Any Graduate,Full-time,Remote,"Business Analysis, ETL, Power BI, Power Query, Python",2026-04-02
+JOB10387,BI Analyst,InsightWorks,Hyderabad,Retail,9.4,3-5,B.Tech/M.Tech,Internship,On-site,"Communication, DAX, ETL, Excel, Google Sheets, Power BI, Power Query, Python, Statistics",2026-08-09
+JOB10388,BI Analyst,TechNova Solutions,Chennai,FinTech,7.2,2-3,B.Com/MBA,Contract,Hybrid,"Business Analysis, Communication, Data Cleaning, Excel, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-04-04
+JOB10389,Data Analyst,Quantify Labs,Delhi NCR,Healthcare,6.3,2-3,BCA/MCA,Contract,Hybrid,"Communication, ETL, Excel, Power BI, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-06-16
+JOB10390,BI Analyst,BrightOps,Chennai,Consulting,5.4,2-3,B.Com/MBA,Internship,Hybrid,"DAX, ETL, Excel, Google Sheets, SQL, Statistics, VLOOKUP/XLOOKUP",2026-06-23
+JOB10391,Business Analyst,Quantify Labs,Pune,E-commerce,7.2,3-5,BCA/MCA,Internship,Remote,"Business Analysis, Communication, ETL, Excel, Google Sheets, Power BI, Statistics, Tableau",2026-02-07
+JOB10392,Data Analyst,CloudMatrix,Mumbai,BPO,10.1,3-5,B.Com/MBA,Internship,Hybrid,"DAX, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-06
+JOB10393,Junior Data Analyst,FinEdge Analytics,Remote,SaaS,8.1,3-5,BCA/MCA,Internship,Remote,"Business Analysis, Communication, DAX, ETL, Excel, Google Sheets, Power Query, Python, SQL",2026-04-01
+JOB10394,BI Analyst,FinEdge Analytics,Hyderabad,BPO,6.6,1-2,BCA/MCA,Full-time,Remote,"Business Analysis, Excel, Power BI, Python, SQL, Statistics",2026-04-23
+JOB10395,Data Analyst,DataBridge India,Delhi NCR,SaaS,6.2,2-3,B.Tech/M.Tech,Full-time,On-site,"Business Analysis, Excel, Power BI, Power Query, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-07-16
+JOB10396,Junior Data Analyst,BrightOps,Mumbai,FinTech,9.9,3-5,B.Tech/M.Tech,Full-time,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-06-23
+JOB10397,Reporting Analyst,FinEdge Analytics,Remote,Healthcare,5.6,2-3,Any Graduate,Full-time,Remote,"Business Analysis, Communication, Data Cleaning, Python, VLOOKUP/XLOOKUP",2026-02-26
+JOB10398,Business Analyst,RetailPulse,Chennai,BPO,5.3,1-2,Any Graduate,Contract,Hybrid,"Business Analysis, Communication, Data Cleaning, Power BI, Power Query, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-04-05
+JOB10399,Junior Data Analyst,RetailPulse,Mumbai,Retail,9.9,3-5,BCA/MCA,Internship,Remote,"Excel, Google Sheets, Power Query, Python, SQL",2026-07-26
+JOB10400,Business Analyst,DataBridge India,Hyderabad,SaaS,5.1,1-2,Statistics/Mathematics,Full-time,On-site,"Business Analysis, Communication, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics",2026-04-17
+JOB10401,MIS Executive,Quantify Labs,Chennai,Healthcare,6.8,2-3,Any Graduate,Full-time,On-site,"Business Analysis, DAX, Data Cleaning, Google Sheets, Tableau",2026-05-24
+JOB10402,BI Analyst,FinEdge Analytics,Mumbai,SaaS,7.8,3-5,Any Graduate,Internship,Remote,"Communication, DAX, Excel, Power BI, Power Query, Python, SQL",2026-07-15
+JOB10403,Junior Data Analyst,TechNova Solutions,Remote,E-commerce,9.2,3-5,B.Tech/M.Tech,Contract,Remote,"Data Cleaning, ETL, Excel, Google Sheets, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-05-29
+JOB10404,Junior Data Analyst,DataBridge India,Hyderabad,FinTech,3.8,0-1,Statistics/Mathematics,Full-time,Remote,"Business Analysis, Communication, Data Cleaning, Excel, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-02-19
+JOB10405,Junior Data Analyst,FinEdge Analytics,Delhi NCR,BPO,6.5,2-3,B.Com/MBA,Contract,Hybrid,"Data Cleaning, ETL, Excel, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-05-13
+JOB10406,MIS Executive,BrightOps,Bengaluru,FinTech,5.4,1-2,B.Com/MBA,Contract,On-site,"Business Analysis, Communication, Data Cleaning, ETL, Python, VLOOKUP/XLOOKUP",2026-07-02
+JOB10407,Business Analyst,FinEdge Analytics,Hyderabad,IT Services,4.4,0-1,Any Graduate,Full-time,On-site,"DAX, Data Cleaning, ETL, Google Sheets, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-02-14
+JOB10408,MIS Executive,Quantify Labs,Pune,Retail,5.8,2-3,Any Graduate,Full-time,On-site,"Business Analysis, Communication, ETL, Excel, Power Query, SQL",2026-07-18
+JOB10409,Data Analyst,CloudMatrix,Kolkata,Healthcare,6.6,3-5,BCA/MCA,Internship,Hybrid,"Business Analysis, Communication, Excel, Google Sheets, SQL, Tableau, VLOOKUP/XLOOKUP",2026-06-04
+JOB10410,Data Analyst,MarketSphere,Bengaluru,IT Services,7.3,1-2,Statistics/Mathematics,Full-time,Remote,"Excel, Google Sheets, Power BI, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-07-29
+JOB10411,Reporting Analyst,Quantify Labs,Mumbai,FinTech,7.1,1-2,BCA/MCA,Contract,Hybrid,"DAX, Data Cleaning, ETL, Excel, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-02-17
+JOB10412,Operations Analyst,FinEdge Analytics,Pune,IT Services,5.3,1-2,Any Graduate,Contract,Hybrid,"Business Analysis, DAX, Excel, Google Sheets, Power BI, Statistics, VLOOKUP/XLOOKUP",2026-06-30
+JOB10413,Business Analyst,InsightWorks,Chennai,SaaS,6.5,2-3,B.Tech/M.Tech,Full-time,On-site,"Communication, DAX, Data Cleaning, Power Query, Python, Tableau, VLOOKUP/XLOOKUP",2026-02-18
+JOB10414,Data Associate,DataBridge India,Bengaluru,FinTech,9.0,3-5,B.Tech/M.Tech,Full-time,Hybrid,"Data Cleaning, ETL, Excel, Power BI, Power Query",2026-01-27
+JOB10415,Reporting Analyst,MarketSphere,Chennai,Retail,3.4,0-1,B.Com/MBA,Internship,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, ETL, Power BI, Power Query, Tableau",2026-05-02
+JOB10416,MIS Executive,Quantify Labs,Remote,IT Services,3.2,0-1,BCA/MCA,Contract,Remote,"Communication, DAX, Data Cleaning, Excel, Power BI, Power Query, Python, SQL",2026-01-18
+JOB10417,MIS Executive,NextGen Systems,Mumbai,IT Services,5.6,0-1,Any Graduate,Contract,On-site,"Business Analysis, DAX, Data Cleaning, ETL, Google Sheets, Power BI, Python, Tableau, VLOOKUP/XLOOKUP",2026-05-19
+JOB10418,Operations Analyst,DataBridge India,Remote,Consulting,7.7,2-3,B.Com/MBA,Contract,Remote,"Communication, DAX, Google Sheets, Power BI, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-04-21
+JOB10419,Data Associate,NextGen Systems,Remote,Consulting,8.4,3-5,B.Tech/M.Tech,Full-time,Remote,"DAX, ETL, Power Query, SQL, Tableau, VLOOKUP/XLOOKUP",2026-06-07
+JOB10420,Data Analyst,NextGen Systems,Hyderabad,IT Services,6.5,2-3,BCA/MCA,Full-time,On-site,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics",2026-04-16
+JOB10421,BI Analyst,RetailPulse,Bengaluru,Retail,6.1,0-1,B.Tech/M.Tech,Full-time,Remote,"Business Analysis, Excel, Power BI, SQL, VLOOKUP/XLOOKUP",2026-04-28
+JOB10422,Data Associate,NextGen Systems,Kolkata,E-commerce,5.8,2-3,Statistics/Mathematics,Contract,Hybrid,"Business Analysis, DAX, Data Cleaning, ETL, Excel, Python, Statistics, VLOOKUP/XLOOKUP",2026-05-09
+JOB10423,Operations Analyst,FinEdge Analytics,Pune,Retail,8.7,3-5,BCA/MCA,Internship,Remote,"Business Analysis, Communication, Python, Tableau, VLOOKUP/XLOOKUP",2026-01-13
+JOB10424,Business Analyst,FinEdge Analytics,Bengaluru,Retail,7.0,2-3,Statistics/Mathematics,Contract,On-site,"Business Analysis, DAX, Excel, Google Sheets, Power BI, Power Query, Python, Statistics, VLOOKUP/XLOOKUP",2026-05-10
+JOB10425,Operations Analyst,CloudMatrix,Chennai,SaaS,7.0,2-3,B.Tech/M.Tech,Internship,Remote,"Business Analysis, Communication, ETL, Google Sheets, Power BI, SQL, Tableau, VLOOKUP/XLOOKUP",2026-05-08
+JOB10426,Operations Analyst,NextGen Systems,Kolkata,FinTech,4.5,1-2,BCA/MCA,Contract,Hybrid,"Communication, ETL, Power BI, Power Query, Python, Tableau",2026-04-16
+JOB10427,BI Analyst,FinEdge Analytics,Hyderabad,SaaS,7.5,2-3,B.Com/MBA,Internship,Hybrid,"Excel, Google Sheets, Power BI, Power Query, Python, SQL",2026-03-04
+JOB10428,Operations Analyst,TechNova Solutions,Kolkata,SaaS,3.9,1-2,Any Graduate,Full-time,On-site,"Communication, Google Sheets, Power BI, SQL, Tableau, VLOOKUP/XLOOKUP",2026-06-14
+JOB10429,Junior Data Analyst,BrightOps,Mumbai,FinTech,5.9,0-1,Statistics/Mathematics,Internship,Remote,"Communication, Excel, Google Sheets, Power BI, Power Query, Python, SQL, Statistics",2026-05-27
+JOB10430,BI Analyst,CloudMatrix,Remote,E-commerce,3.5,0-1,Any Graduate,Full-time,Remote,"Data Cleaning, Excel, Google Sheets, SQL, Statistics",2026-04-19
+JOB10431,BI Analyst,FinEdge Analytics,Remote,E-commerce,7.6,3-5,B.Tech/M.Tech,Contract,Remote,"Communication, DAX, ETL, Excel, Power Query, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-03-05
+JOB10432,BI Analyst,NextGen Systems,Kolkata,FinTech,4.6,0-1,Statistics/Mathematics,Full-time,Hybrid,"Communication, ETL, Excel, Google Sheets, SQL",2026-03-21
+JOB10433,Operations Analyst,NextGen Systems,Kolkata,Retail,8.8,3-5,Any Graduate,Contract,On-site,"Business Analysis, DAX, ETL, Excel, Power BI, Python, Tableau",2026-06-11
+JOB10434,Data Associate,RetailPulse,Remote,BPO,9.4,3-5,B.Com/MBA,Internship,Remote,"Business Analysis, ETL, Excel, Power BI, Power Query, Tableau, VLOOKUP/XLOOKUP",2026-04-01
+JOB10435,Data Analyst,InsightWorks,Hyderabad,E-commerce,9.2,3-5,BCA/MCA,Internship,Remote,"Communication, Excel, Power Query, Python, SQL, Statistics",2026-01-22
+JOB10436,MIS Executive,InsightWorks,Chennai,Retail,6.5,2-3,B.Tech/M.Tech,Full-time,Hybrid,"Business Analysis, Communication, Data Cleaning, Power BI, Statistics, Tableau",2026-02-20
+JOB10437,Operations Analyst,DataBridge India,Pune,IT Services,5.6,0-1,B.Com/MBA,Internship,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, ETL, Excel, Power BI, Python, Statistics",2026-08-07
+JOB10438,BI Analyst,Quantify Labs,Hyderabad,FinTech,5.7,0-1,BCA/MCA,Internship,On-site,"DAX, Data Cleaning, Excel, Power Query, SQL, VLOOKUP/XLOOKUP",2026-07-31
+JOB10439,Reporting Analyst,RetailPulse,Mumbai,E-commerce,8.0,2-3,Any Graduate,Contract,Hybrid,"Communication, DAX, Data Cleaning, ETL, Power BI, Power Query, Python, Tableau",2026-02-16
+JOB10440,Reporting Analyst,RetailPulse,Remote,Consulting,5.1,1-2,Any Graduate,Full-time,Remote,"DAX, Data Cleaning, Excel, Power BI, Power Query, Python, SQL, Statistics",2026-04-09
+JOB10441,Data Analyst,NextGen Systems,Delhi NCR,E-commerce,5.8,1-2,Statistics/Mathematics,Full-time,Remote,"Communication, Data Cleaning, Excel, Google Sheets, Power Query, SQL, Tableau",2026-04-12
+JOB10442,MIS Executive,InsightWorks,Mumbai,BPO,6.1,1-2,Any Graduate,Full-time,Hybrid,"DAX, Excel, Google Sheets, Power BI, Power Query, Statistics, VLOOKUP/XLOOKUP",2026-03-08
+JOB10443,BI Analyst,DataBridge India,Delhi NCR,SaaS,8.1,3-5,Any Graduate,Full-time,On-site,"Data Cleaning, Excel, Google Sheets, Power BI, SQL, Statistics, VLOOKUP/XLOOKUP",2026-05-06
+JOB10444,Data Analyst,NextGen Systems,Pune,SaaS,4.3,1-2,B.Com/MBA,Contract,On-site,"DAX, ETL, Excel, Google Sheets, Power BI, Power Query, SQL",2026-04-24
+JOB10445,MIS Executive,MarketSphere,Bengaluru,E-commerce,6.6,2-3,B.Com/MBA,Full-time,On-site,"Business Analysis, ETL, Power BI, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-05-15
+JOB10446,Data Associate,TechNova Solutions,Bengaluru,FinTech,6.4,2-3,B.Com/MBA,Internship,Remote,"Data Cleaning, Excel, Google Sheets, Power Query, Statistics",2026-02-09
+JOB10447,Data Associate,MarketSphere,Remote,E-commerce,7.0,2-3,BCA/MCA,Full-time,Remote,"Communication, DAX, Data Cleaning, SQL, Statistics",2026-03-25
+JOB10448,Junior Data Analyst,CloudMatrix,Kolkata,E-commerce,3.8,0-1,B.Com/MBA,Contract,Hybrid,"Business Analysis, DAX, ETL, Excel, Power BI, Power Query, Python, SQL, Tableau",2026-08-07
+JOB10449,MIS Executive,NextGen Systems,Bengaluru,Healthcare,7.6,2-3,B.Com/MBA,Contract,Hybrid,"Communication, DAX, Data Cleaning, ETL, Google Sheets, Power BI, Statistics, Tableau",2026-01-25
+JOB10450,Data Associate,NextGen Systems,Mumbai,SaaS,7.7,3-5,BCA/MCA,Internship,Remote,"Data Cleaning, ETL, Excel, Google Sheets, Power BI, Power Query, SQL, Statistics",2026-05-12
+JOB10451,MIS Executive,BrightOps,Remote,Retail,3.7,0-1,B.Tech/M.Tech,Internship,Remote,"Communication, DAX, Data Cleaning, Excel, Google Sheets, Power BI, Power Query, Tableau",2026-03-05
+JOB10452,Business Analyst,BrightOps,Kolkata,IT Services,3.7,0-1,Any Graduate,Internship,Remote,"Communication, DAX, Data Cleaning, ETL, Excel, Google Sheets, Statistics, Tableau",2026-01-21
+JOB10453,Data Associate,Quantify Labs,Hyderabad,SaaS,6.6,1-2,Statistics/Mathematics,Contract,Hybrid,"ETL, Excel, Power Query, Statistics, Tableau",2026-05-31
+JOB10454,MIS Executive,DataBridge India,Pune,SaaS,4.4,1-2,B.Com/MBA,Internship,Hybrid,"Communication, DAX, Data Cleaning, Excel, Power Query, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-01-04
+JOB10455,Data Associate,TechNova Solutions,Mumbai,Healthcare,7.9,2-3,Any Graduate,Full-time,Hybrid,"Communication, Excel, Google Sheets, Power BI, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-07-28
+JOB10456,MIS Executive,DataBridge India,Pune,SaaS,9.3,3-5,B.Com/MBA,Contract,On-site,"Communication, DAX, Excel, Power BI, Power Query, Python, SQL, Tableau, VLOOKUP/XLOOKUP",2026-02-12
+JOB10457,Data Associate,MarketSphere,Pune,Consulting,5.0,1-2,Any Graduate,Contract,Hybrid,"Business Analysis, DAX, Data Cleaning, Excel, Google Sheets, Power Query, SQL, Statistics",2026-05-29
+JOB10458,Data Associate,InsightWorks,Remote,SaaS,6.0,1-2,Statistics/Mathematics,Internship,Remote,"Communication, Data Cleaning, Excel, Power Query, Python, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-05-02
+JOB10459,Data Associate,NextGen Systems,Chennai,SaaS,3.2,0-1,BCA/MCA,Contract,Remote,"Business Analysis, Communication, DAX, Python, Statistics, VLOOKUP/XLOOKUP",2026-05-31
+JOB10460,Operations Analyst,CloudMatrix,Chennai,E-commerce,7.4,2-3,Statistics/Mathematics,Contract,On-site,"DAX, Data Cleaning, Excel, Power BI, Python, Tableau",2026-02-14
+JOB10461,Operations Analyst,InsightWorks,Remote,BPO,6.0,2-3,B.Com/MBA,Full-time,Remote,"Business Analysis, Communication, ETL, Power BI, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-01-09
+JOB10462,Business Analyst,TechNova Solutions,Pune,SaaS,7.7,3-5,B.Com/MBA,Full-time,On-site,"Excel, Google Sheets, Power BI, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-06-30
+JOB10463,Business Analyst,Quantify Labs,Kolkata,SaaS,2.8,0-1,Any Graduate,Full-time,Remote,"Business Analysis, Power BI, Python, Statistics, Tableau",2026-07-01
+JOB10464,Junior Data Analyst,DataBridge India,Delhi NCR,FinTech,4.8,1-2,B.Tech/M.Tech,Contract,Remote,"Business Analysis, DAX, Excel, Power Query, Python, Statistics",2026-05-10
+JOB10465,Operations Analyst,NextGen Systems,Delhi NCR,IT Services,4.9,1-2,B.Com/MBA,Full-time,On-site,"Business Analysis, Data Cleaning, ETL, Google Sheets, Power BI, Power Query, Python, Tableau, VLOOKUP/XLOOKUP",2026-07-23
+JOB10466,Business Analyst,BrightOps,Bengaluru,Consulting,7.1,2-3,B.Com/MBA,Contract,Remote,"Business Analysis, Communication, Google Sheets, Power BI, Power Query, SQL",2026-06-11
+JOB10467,BI Analyst,RetailPulse,Delhi NCR,Healthcare,5.8,2-3,B.Tech/M.Tech,Full-time,On-site,"DAX, Data Cleaning, Excel, Google Sheets, Power Query, SQL, VLOOKUP/XLOOKUP",2026-07-27
+JOB10468,Junior Data Analyst,BrightOps,Chennai,Consulting,5.4,1-2,BCA/MCA,Contract,Remote,"Business Analysis, Communication, DAX, Excel, Power Query, Python, SQL, Statistics, VLOOKUP/XLOOKUP",2026-01-08
+JOB10469,Operations Analyst,MarketSphere,Bengaluru,IT Services,6.1,0-1,B.Com/MBA,Contract,On-site,"Business Analysis, Communication, DAX, Excel, SQL, Statistics, VLOOKUP/XLOOKUP",2026-03-18
+JOB10470,Reporting Analyst,CloudMatrix,Delhi NCR,BPO,6.6,2-3,B.Com/MBA,Full-time,On-site,"Communication, ETL, Excel, Google Sheets, Power BI, Power Query, Python, Tableau, VLOOKUP/XLOOKUP",2026-05-30
+JOB10471,Operations Analyst,BrightOps,Chennai,Retail,3.0,0-1,B.Tech/M.Tech,Internship,Hybrid,"DAX, Excel, Google Sheets, Power BI, Power Query, Python, Statistics, Tableau",2026-05-24
+JOB10472,Operations Analyst,BrightOps,Remote,FinTech,8.9,3-5,BCA/MCA,Contract,Remote,"Business Analysis, Communication, DAX, ETL, Excel, Google Sheets, Power BI, VLOOKUP/XLOOKUP",2026-06-30
+JOB10473,Data Analyst,TechNova Solutions,Hyderabad,E-commerce,8.1,2-3,Any Graduate,Contract,Hybrid,"Data Cleaning, ETL, Excel, Power Query, SQL",2026-03-16
+JOB10474,Junior Data Analyst,DataBridge India,Mumbai,SaaS,7.3,2-3,Any Graduate,Full-time,Remote,"Excel, Google Sheets, Power BI, Power Query, SQL, Tableau",2026-02-25
+JOB10475,Junior Data Analyst,Quantify Labs,Bengaluru,SaaS,4.9,0-1,BCA/MCA,Internship,Hybrid,"DAX, Data Cleaning, ETL, Excel, Power BI, Power Query, SQL, Statistics, Tableau",2026-07-14
+JOB10476,Business Analyst,TechNova Solutions,Chennai,Consulting,7.4,3-5,Statistics/Mathematics,Internship,On-site,"Communication, DAX, Excel, Power Query, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-02-12
+JOB10477,Business Analyst,CloudMatrix,Pune,Healthcare,5.6,0-1,Statistics/Mathematics,Contract,On-site,"DAX, Data Cleaning, ETL, Excel, Google Sheets, Power BI, Python, SQL, VLOOKUP/XLOOKUP",2026-07-21
+JOB10478,Junior Data Analyst,RetailPulse,Chennai,Consulting,4.1,0-1,Any Graduate,Full-time,On-site,"Excel, Google Sheets, Power BI, Power Query, Statistics",2026-03-23
+JOB10479,MIS Executive,MarketSphere,Mumbai,BPO,5.2,1-2,BCA/MCA,Full-time,Remote,"Business Analysis, Communication, Power BI, Power Query, Tableau",2026-01-16
+JOB10480,Data Analyst,CloudMatrix,Mumbai,Healthcare,7.8,3-5,B.Com/MBA,Internship,Remote,"Business Analysis, Excel, Power Query, SQL, Statistics, Tableau",2026-02-21
+JOB10481,Operations Analyst,BrightOps,Bengaluru,FinTech,6.5,2-3,BCA/MCA,Internship,Remote,"DAX, Data Cleaning, Excel, Google Sheets, Power Query, Python, SQL, VLOOKUP/XLOOKUP",2026-03-10
+JOB10482,MIS Executive,Quantify Labs,Mumbai,IT Services,8.7,3-5,Any Graduate,Contract,Remote,"Business Analysis, DAX, ETL, Google Sheets, Power BI, Python, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-05-23
+JOB10483,BI Analyst,BrightOps,Hyderabad,FinTech,3.3,0-1,B.Tech/M.Tech,Full-time,Hybrid,"Business Analysis, Communication, Data Cleaning, ETL, Excel, Python, SQL, Statistics",2026-02-11
+JOB10484,Business Analyst,Quantify Labs,Hyderabad,Consulting,8.0,2-3,BCA/MCA,Internship,Hybrid,"Communication, Data Cleaning, ETL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-12
+JOB10485,Junior Data Analyst,DataBridge India,Pune,Retail,9.6,3-5,Statistics/Mathematics,Internship,Remote,"Business Analysis, Communication, DAX, Data Cleaning, ETL, Excel, Power BI",2026-06-22
+JOB10486,Data Associate,RetailPulse,Chennai,BPO,4.9,0-1,B.Com/MBA,Full-time,Remote,"Communication, DAX, Excel, SQL, VLOOKUP/XLOOKUP",2026-04-01
+JOB10487,Data Analyst,MarketSphere,Bengaluru,Consulting,8.8,3-5,BCA/MCA,Full-time,Hybrid,"DAX, Excel, Google Sheets, Python, Statistics, Tableau",2026-01-24
+JOB10488,Junior Data Analyst,DataBridge India,Kolkata,Healthcare,6.1,2-3,Statistics/Mathematics,Internship,Remote,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Power Query, Python, SQL, Tableau",2026-05-07
+JOB10489,MIS Executive,TechNova Solutions,Bengaluru,Consulting,7.0,1-2,Statistics/Mathematics,Contract,On-site,"Business Analysis, Data Cleaning, ETL, Python, Tableau, VLOOKUP/XLOOKUP",2026-08-06
+JOB10490,Operations Analyst,TechNova Solutions,Kolkata,Healthcare,6.0,2-3,Any Graduate,Contract,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, Excel, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-14
+JOB10491,Data Associate,DataBridge India,Delhi NCR,BPO,4.4,0-1,B.Tech/M.Tech,Full-time,Remote,"Business Analysis, Communication, Data Cleaning, Excel, Power Query, Python, SQL",2026-02-20
+JOB10492,Business Analyst,InsightWorks,Kolkata,SaaS,7.5,3-5,BCA/MCA,Contract,On-site,"Communication, Data Cleaning, Google Sheets, Statistics, Tableau",2026-03-05
+JOB10493,Junior Data Analyst,NextGen Systems,Pune,FinTech,5.1,0-1,BCA/MCA,Full-time,Hybrid,"Business Analysis, Communication, DAX, ETL, Excel, Google Sheets, Power Query, SQL, VLOOKUP/XLOOKUP",2026-04-07
+JOB10494,Data Analyst,RetailPulse,Mumbai,Healthcare,7.7,3-5,Statistics/Mathematics,Internship,Remote,"Communication, Excel, Power Query, SQL, Tableau",2026-06-08
+JOB10495,Data Analyst,InsightWorks,Remote,FinTech,8.2,3-5,Any Graduate,Internship,Remote,"Business Analysis, Communication, DAX, Data Cleaning, Excel, SQL, Statistics, Tableau",2026-02-19
+JOB10496,Reporting Analyst,FinEdge Analytics,Hyderabad,Retail,6.6,2-3,Statistics/Mathematics,Internship,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, ETL, Power BI, Python, SQL",2026-02-02
+JOB10497,BI Analyst,BrightOps,Hyderabad,IT Services,5.6,1-2,B.Com/MBA,Contract,On-site,"Business Analysis, Communication, Excel, Google Sheets, Power BI, SQL, Statistics, Tableau, VLOOKUP/XLOOKUP",2026-07-29
+JOB10498,Reporting Analyst,DataBridge India,Pune,FinTech,3.9,0-1,B.Com/MBA,Full-time,Hybrid,"Business Analysis, Communication, DAX, Data Cleaning, ETL, Python, Statistics, Tableau",2026-03-26
+JOB10499,Reporting Analyst,TechNova Solutions,Kolkata,BPO,5.4,1-2,Any Graduate,Full-time,Hybrid,"Communication, DAX, Data Cleaning, ETL, Google Sheets, Power Query, Python, Statistics",2026-02-17
+JOB10500,Data Analyst,DataBridge India,Bengaluru,Healthcare,5.8,1-2,B.Tech/M.Tech,Internship,On-site,"Business Analysis, Communication, Excel, Python, SQL, Statistics",2026-03-14
