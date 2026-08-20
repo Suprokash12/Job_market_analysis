@@ -1309,4 +1309,69 @@ Aspiring Data Analyst
 * Business Intelligence
 * Data-driven Decision Making
 
+# 📊 Job Market Analysis Dashboard — Power BI
+
+## 📌 Project Overview
+
+The **Job Market Analysis Dashboard** is an interactive Power BI project designed to analyze job-market trends and provide insights into **job demand, salaries, locations, experience levels, employment types, and in-demand skills**.
+
+The dashboard transforms raw job-market data into an interactive and easy-to-understand business intelligence report that can help identify employment trends and opportunities.
+
+## 🎯 Key Insights
+
+* 📈 Analyze the most in-demand job titles
+* 💰 Compare average salaries across job roles
+* 🌍 Analyze job opportunities by location
+* 👨‍💼 Understand job distribution by experience level
+* 📅 Track job-posting trends over time
+* 🛠️ Identify the most in-demand skills
+* 🏢 Analyze companies and hiring activity
+* 💵 Identify high-paying job opportunities
+
+## 🖥️ Dashboard Features
+
+The dashboard includes interactive filters for:
+
+* Location
+* Experience Level
+* Employment Type
+* Posted Date
+
+It also includes KPI cards for:
+
+* **Total Jobs**
+* **Average Salary**
+* **Companies**
+* **Locations**
+* **High-Paying Jobs**
+
+## 🛠️ Tools & Technologies
+
+* **Power BI** — Dashboard development & visualization
+* **DAX** — Measures and calculated columns
+* **Power Query** — Data cleaning and transformation
+* **SQL** — Data analysis and preprocessing
+
+## 📊 Dashboard Visualizations
+
+* Top Job Titles by Demand
+* Jobs by Location
+* Average Salary by Job Title
+* Jobs by Experience Level
+* Job Trends Over Time
+* Top In-Demand Skills
+
+## 🔍 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+**Data Cleaning • Data Transformation • Data Modeling • DAX • SQL • Power BI • Data Visualization • Business Intelligence • KPI Development • Interactive Dashboard Design**
+
+##💡 Project Objective
+
+The main objective of this project was to turn raw job-market data into meaningful insights through an interactive dashboard and demonstrate how data analytics can support better understanding of **career opportunities, hiring demand, salary trends, and required skills**.
+
 ---
+
+⭐ **If you find this project useful, feel free to star the repository!**
+
